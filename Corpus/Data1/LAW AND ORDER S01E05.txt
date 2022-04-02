@@ -1,0 +1,686 @@
+LAW AND ORDER S01E05
+<1><MPP><DRT><DLT><LAW><DSP><DSX>
+Man: With your permission, Your Honor, Court TV will broadcast this trial gavel-to-gavel.
+     The public's interest will be served.
+     The image of our nation's courts will be enhanced by seeing how Your Honor conducts the business of justice.
+Leslie: We are not doing a public service announcement here.
+        This is a trial involving family violence and extreme forms of child abuse.
+        Some of our witnesses don't want to appear on national TV discussing intimate personal details.
+Ferrero: Your Honor, we have no objection to gavel-to-gavel coverage.
+Leslie: Of course she doesn't.
+         It's not her witnesses who'll be intimidated.
+         I filed a motion to have their identities sealed until after they testified, and now you want to put their faces on every TV in the country.
+Ferrero: I’m sure Court TV can conceal their identities.
+Leslie: No, no blue dots.
+        I want the camera out.
+Weisberg: I’m concerned that the camera and operator will be distracting to the juries.
+          Can't your client hang one of those department store security cameras on the wall? 
+Man: Well, if that's their only choice.
+Weisberg: Good.
+          Petition is granted.
+          We're adjourned.
+Leslie: Your Honor… 
+Weisberg: <ITR><MIF><HSP>We’re adjourned, Ms. Abramson.
+          We will reconvene in chambers to hear defense counsel present the legal basis for their theory of the case.
+
+<2><MPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: Erik and Lyle were traumatized by sexual abuse by their parents.
+        Once they threatened to reveal the abuse to third parties, their trauma led them to have a real but unreasonable belief that their parents would kill them to keep the abuse secret.
+           That's imperfect self-defense.
+Lester: Come on.
+           We've litigated this case for three years and now they bring up abuse? 
+Ferrero: True or not, Your Honor, abuse can't be used as a justification for these murders.
+           If you instruct the jury to consider imperfect self-defense, they could convict these defendants for nothing more than Voluntary Manslaughter or even acquit them.
+Leslie: That is up to the jury when they hear our evidence.
+            Your Honor, I ask you not to dismiss this until we present our case.
+Wiesberg: Fine.
+            Present your case.
+            But if you don't convince me, I will instruct the jury to ignore imperfect self-defense.
+            Jury selection begins on Monday.
+
+<3><DPP><DRT><DLT><LAW><DSP><DSX>
+Ferrero: And how do you feel about Beverly Hills? 
+Jury 13: Seems like a ritzy community.
+         I'd like to live there someday.
+
+<4><DPP><DRT><DLT><LAW><DSP><DSX>
+Jill: Please tell us what, if anything, you know about JosÃ© and Kitty Menendez.
+Jury 1: Well, they were rich, and Now they're dead.
+Lester: Do you think you could be impartial even though you're married to Los Angeles Deputy District Attorney? 
+Jury 14: Yes.
+         I don't always agree with my husband.
+Lester: We’ll take her.
+Leslie: We reject for cause.
+Weisberg: Denied.
+          And since you're out of peremptories, this juror is accepted.
+
+<5><MPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: Have you ever seen Erik's face on TV? 
+Jury 7: No.
+Leslie: Have you ever seen my face on TV?  
+Jury 7: No.
+Weisberg: Some people would say you're lucky.
+Leslie: I’m striking this juror.
+        Your Honor, every time the Court makes a comment about me, it's negative.
+        Have I offended the court? 
+Weisberg: You’re being overly-sensitive, Ms. Abramson.
+          Let's move on.
+
+<6><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: She says I'll be a terrible mother.
+Leslie Husband: Laine knows that's not true.
+                So do I.
+Leslie: She thinks I'm ungrateful.
+        I'm not.
+        All her insults growing up made me stronger.
+Leslie: Tell me what you think.
+        Pam Bozanich will probably wear something colorful, to distract from the fact that she's the Angel of Death.
+        <PAS>What you doing? 
+Leslie Husband: You left out a comma.
+        Punctuation matters, even in a speech.
+Leslie: Mm.
+        What do you think? 
+Leslie Husband: Now the defense is ready.
+
+<7><MPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: Mr. Arnel, he's the boy I told you about.
+        He came to show his support.
+        Who is Lyle talking to? 
+Jill: That’s Norma Novelli.
+      She puts out a newsletter for prisoners.
+      Lyle's writing an article for her.
+      He trusts her.
+
+<8><MPP><DRT><DLT><LAW><DSP><DSX>
+Weisberg: All rise.
+          Please sit down.
+          Good morning.
+          Some of you may have noticed that there are two juries in the courtroom today.
+          The jury that will hear Lyle Menendez's case is sitting in the jury box wearing gold badges.
+          Erik Menendez's jury is in the front gallery with blue badges.
+          They will move in and out of the courtroom according to which defendant the testimony pertains.
+          Jurors I would like to thank you in advance for performing this important civic service.
+          I'm sure all of you will find this a rewarding and interesting experience.
+          The evidence will be fascinating and all of the lawyers are top-notch.
+          Now, the Court [camera whirring.]
+          What is that? 
+Man: The camera you authorized, Your Honor.
+Weisberg: But it's moving.
+Man: It’s a robotic camera, sir.
+     It's being controlled from down the hall.
+Weisberg: Now the Court will call the case of People versus Menendez.
+          Let us proceed with opening statements.
+
+<9><MPP><DRT><DLT><LAW><DSP><DSX>
+Lester: During the course of this fishing trip, did it seem to you that the family was enjoying themselves? 
+Photographer: The boys sat at the bow the whole trip, getting cold and wet.
+              I couldn't say they enjoyed it.
+Lester: Didn’t you tell police that the family excitedly pointed to seals playing in the water to Mrs. Menendez? 
+Photographer: That’s right.
+Lester: Thank you.
+Leslie: Seals? 
+        How adorable.
+Weisberg: Ms. Abramson, I want no more gratuitous remarks in front of the jury.
+Leslie: Captain, who took this photo? 
+Photographer: I did.
+Mrs. Menendez asked me at the end of the trip.
+Leslie: Captain Anderson, during this outing, did it appear to you that the boys were trying to stay away from their parents? 
+Photographer: They didn't talk much to their parents.
+              They seemed gloomy.
+Leslie: Gloomy? 
+        And afraid of their parents? 
+Lester: <ITR><MIF><ESP>Objection.
+Leslie: Withdrawn.
+        No more questions.
+
+<10><DPP><DRT><DLT><LAW><DSP><DSX>
+Zoeller: Blood and brain matter were dripping from the ceiling.
+         I observed Mr. Menendez sitting at one end of the couch.
+         He had gunshot wounds to his legs, thighs, torso and face, and what appeared to be a point-blank gunshot to the front of his head.
+Ferrero: What else did you observe? 
+Zoeller: Mrs. Menendez was lying on the floor between the couch and coffee table.
+         She had gunshot wounds across her body, and what appeared to be a point-blank gunshot under her left eye.
+Ferrero: People’s three.
+         Detective, please open the packet and describe its contents.
+[bag ripping.]
+Zoeller: Women’s size nine tennis shoes.
+         These are the shoes Mrs. Menendez was wearing when she was murdered.
+
+<11><DPP><DRT><DLT><LAW><DSP><SSX>
+Crag: Erik and I wanted to start a multi-faceted company that dealt in stocks, screenplays, inventions you know, anything to develop our status in society.
+Lester: What classes did Erik say he took at Beverly Hills High? 
+Crag: Uh, several, but a drama class I believe is what you're looking for.
+Lester: <PAS>Did you have occasion to visit Erik at his home after the murders? 
+Crag: Yeah.
+      About a week and a half after.
+      Just to make sure he was okay.
+      There was this computer expert there from San Diego with his pregnant wife.
+      Erik said that Lyle had the guy erase a family will from the computer.
+      He said that the will cut him and Lyle out of the money.
+Lester: Did Erik discuss the murders with you? 
+Crag: Yeah, he asked me, "Do you want to know how it happened?" I said, "Yes." He told me how Lyle handed him a shotgun, said, "Let's do it." 
+      They went into the family room, parents were on the couch, and Lyle shot his dad.
+      Uh…<PAS>and then he told Erik, "Shoot Mom." And Erik shot his mom while she was standing up and yelling.
+Lester: Did Erik say that he was acting in self-defense? 
+Crag: No.
+Lester: That he was abused by his parents? 
+Crag: No.
+Lester: Nothing further.
+
+<12><DPP><DRT><DLT><LAW><DSP><DSX>
+Erick: He’s lying.
+Leslie: I know, honey.
+        This is where we take their case apart, one liar at a time.
+[sighs.]
+
+<13><DPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: I take it, Mr. Cignarelli, from the way you're dressed, that you're no wallflower.
+            You like attention, do you not? 
+Crag: Yeah, I guess so.
+Leslie: Do you like the fact there's a TV camera on you right now? 
+Crag: No, not at all.
+      I'm dressed this way because this is my future.
+Leslie: Ah.
+        You tend to talk very fast so try to slow down.
+        Now, you testified that Erik confessed to you a week and a half after the murders.
+        You initially told police it was on October 21st, two months after the murders, did you not? 
+Crag: The police told me the exact date was a week and a half after the murder.
+Leslie: How would they know what date Erik confessed to you? 
+Crag: I believe they coordinated the dates with when the computer expert was there.
+      I guess they put those two together.
+Leslie: So you're putting your story together based on what the police told you? 
+Crag: No, I'm not putting my story together.
+Leslie: <PAS>There was no expert at the house, was there?
+        Erik never talked to you about any will.
+Crag: You can twist my story all you want, okay? 
+      I'm telling the truth.
+Leslie: Erik never confessed to you, did he? 
+Crag: No, he did, okay? 
+      That's why I agreed to wear a wire in the first place, to get him to confess on tape.
+Leslie: Did the police use threats to get you to wear that wire? 
+Crag: No, they didn't threaten me.
+Leslie: So there was no downside to wearing it? 
+Crag: No, the downside was I'm doing this to my best friend.
+Leslie: Your best friend.
+        <PAS>I'm done.
+
+<14><MPP><DRT><DLT><LAW><DSP><SSX>
+Donovan: Hoohoo-hoo, aw, man.
+Glenn: Those girls were even hotter than the last place.
+Zoeller: Not as hot as where we're going next.
+Donovan: Hey, thank you for all of this, Detective.
+Zoeller: Ah, you boys need to relax.
+         You got a big day tomorrow.
+         Now, when you get on the stand, - just stick to the script.
+Donovan: Okay.
+Zoeller: Those defense lawyers are sharp, but three words will get you out of trouble.
+          “I. Don’t. Remember." 
+          Okay? Let's go.
+
+<15><DPP><DRT><DLT><LAW><DSP><DSX>
+Donovan: It’s my time card from Boxer's.
+         It shows I worked a shift on August 18, 1989.
+Ferrero: Did you give Erik or Lyle permission to use your driver's license to buy two shotguns in California on that date? 
+Donovan: No, I did not.
+Ferrero: Thank you.
+         No more questions.
+
+<16><DPP><DRT><DLT><LAW><DSP><DSX>
+Jill: Mr. Goodreau, you and Lyle were close friends. <NME>
+      You shared confidences? 
+Donovan: Uh, yes.
+         Right.
+Jill: In May 1989, over dinner at a Chinese restaurant, did Lyle reveal a secret about himself, Erik, and their father? 
+Donovan: Um…<PAS>a secret? 
+Jill: I’ll be specific.
+      Did Lyle tell you that his father had molested them? 
+Donovan: No, he didn't.
+Jill: But didn't you tell Glenn Stevens that Lyle told you that his father had abused him? 
+Donovan: No, I never told Glenn that.
+
+<17><DPP><DRT><DLT><LAW><SSP><SSX>
+Jill: The little bastard.<TBW>
+Leslie: Ask him about the Rand interview.
+
+<18><DPP><DRT><DLT><LAW><DSP><DSX>
+Jill: Mr. Goodreau, did you ever have an interview with a reporter on tape in which you stated Lyle confided that his father had molested him? <NME>
+Donovan: Bob Rand was the only reporter who interviewed me on tape.
+Jill: And did you state on tape that Lyle said he and Erik were abused by their father?
+Donovan: I…<PAS>I…<PAS>I don't remember.
+
+<19><MPP><DRT><DLT><LAW><DSP><DSX>
+Lyle: I thought Goodreau was my friend.
+Erick: They’re all turning on us.
+Lyle: What’s wrong with us? How could we have friends like this? 
+Jill: They’re just scared, Lyle.
+      The juries know they're lying.
+Police: Come on.
+Leslie: Hold on, we need you boys to get some rest tonight.
+        Can you do that for us? 
+        Okay.
+
+<20><DPP><DRT><DLT><LAW><SSP><SSX>
+Leslie: We can refute Goodreau's denial with Rand's interview tape.
+Jill: But we can't use it in court.
+      It's never been made public.
+      We only know about it because Rand played it for us.
+      There's no basis to admit it as evidence.
+
+<21><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: Interesting testimony today, Mr. Rand.<NME>
+Rand: Yeah, interesting.
+Leslie: Too bad your Goodreau interview was never broadcast.
+        Better do the right thing.
+
+<22><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie Husband: Everybody’s glued to it at the office.
+                Even the Japanese Barbecue down the street.
+                Your reviews aren't good.
+                You defend rich brats, don't show proper respect for the judge, and I don't at all get why you keep petting Erik and fussing with his sweater.
+Leslie: Everyone needs mothering.
+Leslie Husband: Speaking of, does Sylvia know you've been in touch with Sol? 
+Leslie: Ira told her.
+        It's why that rejecting old woman isn't returning my calls.
+
+<23><MPP><DRT><DLT><LAW><DSP><DSX>
+Jill: Well, Mr. Goodreau, would you like to amend your testimony from yesterday? [breathes deeply.] <NME>
+Weisberg: Take a deep breath, Mr. Goodreau.
+Donovan: I don't remember that interview.
+         Lyle never told me he was molested.
+         So I never said anything to Glenn Stevens.
+Jill: Nothing further.
+
+<24><DPP><DRT><DLT><LAW><DSP><DSX>
+Glenn: Donovan never told me anything.
+       It was the reporter, Bob Rand, who told me about the molestation and the massages.
+Jill: When he was arrested, Lyle gave you his gold Rolex watch for safekeeping.
+      What did you do with it?  
+Glenn: I sold it.
+       To pay for my trip back east.
+Jill: In the months before his arrest, Lyle bought you plane tickets, meals, even a car, is that right? 
+Glenn: Yes.
+       I managed his restaurant.
+       It was his responsibility to pay for those things.
+Jill: To pay for a car? What were your duties at the restaurant? 
+Glenn: Well, I supervised five employees.
+       I took care of the payroll.
+Jill: Defense’s 39, a copy of the resume you sent to prospective employers.
+      It says that you supervised a payroll of 20 restaurant employees.
+      So you went from 5 to 20.
+Glenn: Yes, that was an over-exaggeration.
+       An embellishment.
+Jill: Is that the same thing as a lie? 
+G: <PAS>Sometimes it can be.
+Jill: And is there anything else on this resume that is an embellishment? [camera whirring.]
+Glenn: <PAS>Probably.
+Jill: Valedictorian at Westminster School, is that correct? 
+Glenn: Not exactly.
+Jill: So you were presenting a false picture of yourself? 
+Glenn: You see, at Princeton, we're instructed to embellish a little bit.
+       To sell yourself.
+Jill: So it didn't violate any personal code of honor that you have? 
+      Or do you have one, Mr. Stevens? 
+Glenn: Yes, I have a personal code of honor.
+       And it probably violated it.
+Jill: Thank you.
+      Nothing further.
+
+<25><DPP><DRT><DLT><LAW><SSP><DSX>
+Oziel: Wait, don't tell me that.
+       The Board's accusing me of giving her drugs, threatening to put her in a mental hospital, and forcing her to have sex.
+           I never had to force her.
+Ross: We’ll answer the charges, Jerry.
+Oziel: But they're threatening to revoke my license, Ross.
+Ross: Relax.
+      I'll handle it.
+
+<26><DPP><DRT><DLT><LAW><DSP><SSX>
+Oziel: In November 1989, Lyle and Erik shared with me a list of grievances they had against their father.
+           It didn't include sexual abuse.
+Lester: How did they characterize the killings? 
+Oziel: I laid out two kinds of murder for them.
+       One premeditated, involving a plan, a job to be accomplished.
+       Or two, a crime-of-passion killing.
+       Lyle and Erik chose the first option to describe their own crime.
+Lester: A job to be accomplished.
+        Thank you.
+
+<27><MPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: [inhales.]
+         Dr. Oziel.<NME>
+         From an ethical standpoint, are you comfortable being a witness against former patients in a case where the state wants to kill them? 
+Oziel: No.
+Leslie: In your resume, you describe yourself as a "sex therapist." The term pops up many times.
+        "Sex therapist, sex therapist, sex therapist." And you list your media appearances.
+         I assume you were speaking about things associated with sex therapy? 
+Oziel: Probably.
+         I don't recall those appearances because they didn't have that much importance to me.
+Leslie: Enough importance to list them all in your resume.
+         When you met the Menendez family in 1988, did you tell them that your license was on probation at that time? 
+Oziel: I don't remember.
+Leslie: The probation was for unprofessional billing practices, right? 
+Oziel: Technically, yes.
+Leslie: Let’s talk about your billing practices.
+        Four days after the murder, you went to the Bel Air hotel to offer your condolences to Erik and Lyle, is that right? 
+Oziel: Well, yes, of course.
+Leslie: And you billed them $1,300 for that visit. [crowd murmuring.]
+Oziel: Well, that reflects the time I spent with them, as their therapist.
+Leslie: $1,300 for condolences? 
+       You testified earlier about feeling threatened by Lyle, that you and your family were in mortal danger.
+       But instead of going home to ensure their safety, you went to your girlfriend's.
+Oziel: I wouldn't call her my girlfriend.
+Leslie: Are you more comfortable with lover? [ominous music.]
+Leslie:<PAS> I’ll help you.
+        Defense's 43.
+        Is this a poem you wrote to Judalon Smyth in January 1990? 
+Oziel: I didn't write it to Judalon.
+Leslie: “For like a nymph she strides from the forest "at daybreak dressed in white” when no other man had truly known her Judalon.”
+        So, girlfriend? 
+        Lover? 
+Oziel: Fine.
+       I was afraid that if Lyle and Erik followed me, they would find me with my wife and children.
+Leslie: So instead you went to Ms. Smyth's and put her, based on what you told us and her, in danger? 
+Oziel: Erik knew where I lived.
+       They didn't know about Judalon.
+       I could hide out there 
+Leslie: How many days did you hide out at Ms. Smyth's? 
+Oziel: Several days.
+Leslie: But during that time, on November 1st, did you see patients in your office? 
+Oziel: I did see patients that day.
+Leslie: 11 patients in your office.
+       Erik and Lyle certainly knew where that was, didn't they? You didn't really feel threatened, did you? 
+       <PAS>You just said that to Ms. Smyth so that she - would feel threatened - 
+Ferrero: <ITR><FIF><ESP>Objection.
+         Approach, Your Honor? 
+Weisberg: Come on.
+[whispering.]
+
+<28><MPP><DRT><DLT><LAW><DSP><DSX>
+Ferrero: Ms. Abramson is putting before the jury a legal issue that's been resolved.
+Leslie: Look.
+             This jury has a right to assess his credibility.
+             We're not challenging whether or not he was in fear.
+             We're saying he told Ms. Smyth they were in danger because he exploits people by exercising domination over them, by putting them in fear…
+Ferrero: <ITR><FIF><ESP>I’m sorry.
+Leslie: By isolating them 
+Ferrero: <ITR><FIF><ESP>Do you want to do this in front of Dr. Oziel, because he's right here.
+Leslie: Yes, I don't care if he's listening.
+Weisberg: Ms. Abramson, move on from this line of questioning.
+          And did you fail the law school whispering course [whispering.] because everybody can hear your stage whispers.
+
+<29><DPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: [breathes deeply.]
+         Dr. Oziel.
+         Isn't it true, rather than being afraid, you saw Erik's confession as an opportunity for financial gain? 
+Oziel: No, that's not at all true.
+Leslie: You don't remember telling Ms. Smyth in a call recorded by her, "Judalon, there's 14 million involved in this," 14 million being the approximate worth of the Menendez estate.
+Oziel: I don't recall making that statement, but, you know, I might have.
+Leslie: Have you talked about writing a book about your experience in this case? 
+Oziel: Yes, I have.
+Leslie: Were you hoping to make a lot of money off this book? - Was that on your mind? 
+Oziel: No.
+       What entered my mind was that being a witness in a case like this is like being on trial.
+       It's like this experience, actually, that we're having right now.
+Leslie: Good luck with that, Dr. Oziel.
+        I'm done with this witness.
+
+<30><MPP><DRT><DLT><LAW><DSP><DSX>
+Jill: So now we've heard the prosecution's whole case against you.
+Erick: They haven't proven anything.
+       I mean, there was no testimony about us hating our parents or wanting money.
+Lyle: They’re going with the evil seed theory.
+      Their best theory is hatred.
+      I'm not a guy who hates.
+Leslie: We will get our chance on Monday.
+        This weekend, we want you boys to go out and use the exercise yards.
+        Just work up a sweat.
+
+<31><DPP><DRT><DLT><LAW><SSP><SSX>
+Leslie: I have to run.
+        I'm meeting the birth mother tonight.
+        She's six months pregnant.
+Jill: Six months? 
+      At the rate we're going, she's going to give birth in the middle of the trial.
+Leslie: I thought of that.
+Jill: Well, Leslie, I wish you'd told me earlier.
+       How can you possibly handle this trial and a new baby? 
+Leslie: I can handle it.
+        Just like you did when you had Lila.
+        Just like women have been doing since God knows when.
+
+<32><DPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: Six months pregnant.
+        I remember when I was six months pregnant.
+        I was not a happy camper.
+Leslie Husband: It’s going to be okay.
+Leslie: What if she's not in the best frame of mind to meet us? 
+        And what if she doesn't like us? 
+        What if I say something 
+Leslie Husband: You won't.
+Leslie: You don't know that.
+<33><MPP><DRT><DLT><LAW><DSP><DSX>
+Ferrero: They want to put the parents on trial.
+Leslie: The prosecution used a parade of pathological liars to concoct a fantasy about Erik and Lyle.
+        We want to talk about what really happened.
+Jill: Judge Weisberg, presenting a history of the Menendez family, starting with Jose and Kitty Menendez's childhoods is the only way to give the jury a full understanding of Erik and Lyle's abuse.
+Lester: How can the events from 40 years ago, before the defendants were even born, have any relevance? 
+Leslie: If we get the chance, Lester, we will connect the dots for you and the jury.
+Weisberg: I happen to agree with Mr. Kuriyama.
+          The victims' teething problems are not relevant.
+          You can start your family history with the defendants' childhood.
+          Now I warn both of you ladies that if you bog us down in minutiae, I will cut you off.
+
+<34><DPP><DRT><DLT><LAW><SSP><SSX>
+Erick: Watch out, I'm gonna blitz you.
+Lyle: Ooh, little Erik, I'm so scared.
+Erick: Oh, six.
+Lyle: Aw.
+      That's a hit.
+
+<35><DPP><DRT><DLT><LAW><DSP><SSX>
+Aunt Marta: Kitty wouldn't kiss and coo Lyle when he was a baby.
+                She didn't like Lyle.
+                She seemed to resent him.
+Leslie: Can you give us an example? 
+Aunt Marta: When he was two and he was hungry, she let him climb on a chair, get on the counter, and get his cereal.
+Leslie: Did she make a move to grab the baby?
+Aunt Marta: No. 
+            But when I did, she stopped me, and she said, "Lyle can fend for himself." 
+            I didn't understand.
+            She once told me the boys had broke her marriage.
+Leslie: <PAS>How did you brother Jose treat his sons in your presence? 
+Aunt Marta: He was brutal.
+            Once, when Erik lost a tennis match, he called him a sissy in front of the whole crowd.
+Leslie: Defense’s 52.
+        Do you know this photo? 
+Aunt Marta: Yes.
+            Jose put Erik on a chin-up bar, and left him there, to toughen him up.
+            He thought it was funny.
+            Erik was terrified.
+Leslie: Who took this photo? 
+Aunt Marta: Kitty.
+            She thought it was funny too.
+Leslie: Ms. Cano, do you think your brother loved his sons? 
+Aunt Marta: I think he did.
+            You can love somebody and still hurt them, you know? 
+
+<36><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: Sylvia had a heart attack.
+        She's in a coma.
+        They don't expect The doctors don't expect her to live.
+Leslie Husband: It’s too late for the red-eye, but we can fly out first thing in the morning.
+Leslie: Oh, I can't do that.
+        I have to be in court tomorrow.
+        There's important testimony.
+        It's too late to get a postponement.
+        I can leave tomorrow night.
+Leslie: I tried, Tim. [crying.]<NME>
+        She pushed me away.
+        She threw my father out for another man.
+        She pushed everybody away.
+[breathes deeply.]
+        <PAS>This is more important to me than I ever was to her, and if she can't wait for me, well then what else is new? 
+
+<37><DPP><DRT><DLT><LAW><DSP><DSX>
+Andy: We were playing war in a field behind the house, pretending to hide from the Russians.
+       And then this helicopter, a real one, suddenly appeared in the sky.
+[helicopter whirring.]
+           We got scared and ran into the woods.
+[distant helicopter whirring.]
+Andy: I didn't really get what he was trying to tell me.
+      I was too Young.
+Leslie: Thank you, Andy.
+<38><DPP><DRT><DLT><LAW><SSP><SSX>
+Young Andy: The Russians are gone.
+            They ran away.
+Young Erick: Andy, does your dad give you massages? 
+Young Andy: No, my dad's not really around.
+Young Erick: Do you think other kids get massages from their dad? 
+Young Andy: I don't know.
+Young Erick: My dad massages my pecker.
+             I wonder if that happens with other dads.
+Young Andy: My dad doesn't do that.
+            I can ask my mom.
+Young Erick: No, you can't.
+             You can't tell anybody.
+Young Andy: Did you tell your mom? 
+Young Erick: No, she'd get mad at Dad.
+             Massages are starting to hurt.
+             I want him to stop everything he's doing to me.
+             You got to swear never to tell.
+Young Andy: I swear.
+
+<39><MPP><DRT><DLT><LAW><DSP><DSX>
+Lester: Mr. Cano.<NME>
+            You didn't share this story until almost a year after your cousin Erik was arrested, correct?
+Andy: I promised him I wouldn't.
+Lester: You love your cousin, don't you? 
+        You'd say or do anything for him? 
+Andy: Well, not anything, but I am…
+Lester: <ITR><MIM><HSP>Nothing further.
+Leslie: Redirect, Your Honor.
+        Andy, would you lie for Erik? 
+Andy: No, I wouldn't lie for him, and I wouldn't lie for anybody under oath.
+
+<40><MPP><DRT><DLT><LAW><DSP><DSX>
+Diane: I spent vacations at the Menendez's.
+           I felt welcome there.
+           The whole family, the aunts and uncles, were very special to us.
+Jill: And did anything happen to change your view? 
+Diane: Yes.
+       When I was 15, Lyle came up to the guest room where I was staying.
+       I thought he wanted to say goodnight.
+Diane: It was never discussed after that.
+       I convinced myself that I was in the wrong, but I…<PAS>I started noticing things.
+       There was never any warmth between my cousins and their parents.
+       When Erik was 11, I tried to give him a hug, but Aunt Kitty stopped me.
+       She said He needed to grow up.
+       He was too much of a baby.
+Jill: What other behavior did you notice? 
+Weisberg: <ITR><MIF><HSP>All right.
+          I'm gonna end this line of questioning right now.
+Jill: Your Honor, this is relevant to our I've heard enough family minutiae.
+Weisberg: <ITR><MIF><HSP>Defense is beating a dead horse here.
+Leslie: Your Honor, I move for mistrial.
+        The Court's comments in front of the juries are prejudicial and inappropriate.
+Weisberg: Motion denied.
+Ms.Vandermolen, you are excused.
+Leslie: Your Honor, I ask that you reconsider.
+Weisberg: Court will recess. 
+[gavel thuds.]
+[murmuring.]
+
+<41><DPP><DRT><DLT><LAW><SSP><DSX>
+Young Lyle: Can I sleep here? 
+Young Diane: Why? Is something wrong with your bed? 
+Young Lyle: I want to touch you down there.
+Young Diane: What did you say? 
+Young Lyle: I want to play, like this 
+Young Diane: Stop it, Lyle, that's not nice.
+Young Lyle: Me and Dad touch each other down there.
+Young Diane: What do you mean, down there? 
+Young Lyle: Our penises.
+
+<42><DPP><DRT><DLT><LAW><DSP><SSX>
+Kitty: Guys.
+Young Lyle: Aunt Kitty.
+            Lyle just told me It's weird.
+             He said Uncle Jose touches him on his penis.
+Kitty: You’re making things up, Diane.
+       Lyle would never say anything like that.
+       You should know better.
+       Come on, mister, you need to get to bed.
+
+<43><DPP><DRT><DLT><LAW><SSP><SSX>
+Jill: We had a dozen more witnesses.
+          Weisberg cut us off at the knees.
+Leslie: I don't know if it's me or the boys or the abuse, but Weisberg has got a bug up his ass about something, and it might cost our boys their lives.
+[pager vibrates.]
+Jill: What’s wrong? 
+
+<44><MPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: I’m sorry I got here too late.
+Leslie’s Brother: It’s okay.
+                  Mom never regained consciousness.
+Leslie’s Sister: She was so proud of you, Leslie.
+Leslie: [scoffs.]
+            I really think so.
+
+<45><MPP><DRT><DLT><LAW><SSP><SSX>
+Woman: You must be Leslie.
+       We recognize the hair.
+       We live across the street from your mother.
+       Such a sweet lady.
+Leslie: Aw, thank you so much for coming.
+Man: You’re that lawyer, the one from TV.
+     Well, how can you defend those monsters? 
+Leslie: <PAS>Excuse me? 
+Woman: Killing their parents.
+       It's the worst thing imaginable.
+Leslie: No.
+        Using your kids for sex, warping them, destroying them, destroying your future generations.
+        That's the worst sin, lady.
+Man: You can't talk to my wife that way.
+Leslie’s Father: My daughter can talk to anybody any way she wants.
+                 What's more, she's right.
+                 Come on, kiddo, walk me to my cab.
+Leslie: I missed you, Daddy.
+        I missed that voice cheering me on.
+
+<46><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: Those people are just ordinary joes.
+        You know, I expect it from them, but Weisberg's a judge.
+        He should know better.
+        He called it "minutiae." Sex crimes, minutiae.
+Leslie Husband: He’s not making the connection between the killings and the abuse.
+                He's not the only one.
+                Did you read Dershowitz's column today? He called your defense  "The Abuse Excuse.”
+                "A national abdication of personal responsibility." 
+Leslie: Just goes to show you, being a Harvard professor does not make you a human being.
+Leslie Husband: [chuckles.]
+Leslie: What is that? 
+Leslie Husband: It came in the mail from the adoption agency.
+                Handsome devil.
+Leslie: Oh.
+        I feel like I want to call her.
+        Tell her how beautiful he is.
+Leslie Husband: I wouldn't.
+                It's late.
+                It'll sound like you're checking up on her.
+                Write her a letter.
+                Or better yet, America Online has an email service now.
+                We can set you two up to write to each other.
+Leslie: Sounds like a recipe for disaster.
+        I prefer talking to people.
+[exhales.]
+Leslie: Screw Weisberg.
+        Screw Dershowitz.
+        Once my boys take the stand, everyone will get it.
+        They will see the connection between the abuse and the killings.
+        I will make them see it.
+
+
+
+
+
+

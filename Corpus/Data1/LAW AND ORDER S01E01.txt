@@ -1,0 +1,713 @@
+LAW AND ORDER S01E01
+<1><DPP><IDT><DKH><LAW><DSP><DSX>
+PLICE: Beverly Hills Emergency. <NME>
+Erick: Uh, yeah, yes, please.
+POLICE: What’s the problem?
+        What's the problem? 
+        What's the problem? 
+Erick: Somebody killed my parents.
+POLICE:Pardon me?
+Erick: Somebody killed my parents.
+POLICE: What? 
+        Who? 
+        Are they still there?
+Erick: [sobbing.]The people who...Oh, no, no.
+POLICE: They were shot? 
+Erick: Yeah, I didn't see it.
+
+<2><DPP><IDT><DKH><LAW><SSP><DSX>
+POLICE: I have a hysterical person on.
+        I'm trying to get anything further.
+        I don't know what they're saying.
+
+<3><MPP><IDT><DKH><LAW><DSP><SSX>
+POLICE: Is the person still there? 
+Erick: Uh, I don't know 
+POLICE2: What happened? We have units en route.
+POLICE2: What happened?
+Erick: I don't know.
+POLICE2: The shots 
+Erick: I don't know anything. I just came home.
+POLICE2: You came home and found who shot? 
+Erick: My mom and my dad.
+POLICE2:  Were they in bed? 
+Erick: No.
+POLICE: Do you know if they're still in the house? The people that did the shooting? Erick: [crying.]
+
+<4><DPP><DRT><DKH><LAW><SSP><SSX>
+Zoeller: Chief said this was a double header.
+Tom: Jose Menendez and Kitty Menendez.
+     Neighbors heard pops around 10.
+     The sons, Lyle and Erik, came home, found the gate open and the alarm off.
+Zoeller: Where are the sons now? 
+Tom: Sarge brought them to the station.
+Zoeller: Did you run the plates on these yachts? 
+Tom: The Alpha's Lyle's.
+     This Mercedes is registered to Mr. Menendez.
+     The other is a loaner while his wife's Rolls is being serviced.
+Zoeller: Mercedes loaner.
+         My wife take the car in for service, she gets a bus ticket.
+
+<5><DPP><DRT><DKH><LAW><SSP><SSX>
+Tom: SHOT GUNS. 
+Zoeller: How many shells recovered?
+Tom: None shooter picked them up.
+Zoeller: That’s different.
+
+<6><DPP><DRT><DKH><LAW><DSP><SSX>
+Erick: Well, I usually stay in the guesthouse out back when I'm home from    Princeton.
+Inquisitor: What year are you there?  
+Erick: Sophomore.
+       I'm supposed to go back in September.
+
+<7><DPP><DRT><DKH><LAW><DSP><SSX>
+Inquisitor: Joseph Lyle Menendez.
+               You're named after your father.
+Lyle: Yes.
+      But I go by Lyle.
+Inquisitor: So you and Erik had plans for tonight? 
+Lyle: Yeah to go see a movie and then meet up with my friend Perry Perry Berman.
+Inquisitor: And what about your parents? 
+Lyle: They just stayed in, watched TV.
+      It's Sunday.
+
+<8><DPP><DRT><DKH><LAW><DSP><SSX>
+Erick: Yeah, and we went to the movies in Century City.
+          We saw "Batman." We weren't even gonna go out, you know? It wasn't the plan where we always go out on Sundays.
+          We should have just stayed in. [crying.]
+          Oh, God, I saw smoke and blood everywhere.
+          How could Dad let it happen?
+Inquisitor: It's all right, Erik.
+            Now, after the movies, you went where? 
+Erick: The civic center in Santa Monica to meet a friend, Perry, at this wine tasting thing.
+       We couldn't find him, so Lyle called him at home.
+
+<9><DPP><DRT><DKH><LAW><DSP><SSX>
+Lyle: I was, you know, a little bit upset.
+         I told him to meet us in Beverly Hills at the Cheesecake Factory.
+Inquisitor: How come you went by the house? 
+Lyle: To pick up this ID that Erik had in case he had to get into a bar.
+      But he doesn't drink plays tennis.
+Inquisitor: Lyle, do you have any ideas on this, to help us solve it? <NME>
+Lyle: Well, this movie company my father owns now the stories he brings home, these are a real seedy group.
+      They basically just fired a bunch of people.
+      He was a great man.
+      He was born in Cuba.
+      He did what he wanted.
+      My mother was the great tragedy in all this.
+      Only my brother and I know this, but she was very edgy and suicidal.
+      She was more stable lately, but my dad has been… <PAS>
+      I never really got a chance to sit down and talk.
+
+<10><DPP><DRT><DLT><LAW><DSP><SSX>
+Poliece: You can't be on the property.
+Lyle: This is our house we live here.
+      We just came to get our stuff.
+
+<11><DPP><DRT><DLT><LAW><DSP><SSX>
+Zoeller: I’m Detective Zoeller.
+             I'm in charge of the investigation.
+             You must by Lyle and Erik? 
+             Sorry for your loss.
+Lyle: Yeah, we need to pick up our tennis gear.
+Zoeller: You’re…going…to play tennis? <PAS>
+Lyle: Yeah, my brother has a practice today.
+Zoeller: …I can't let you in the house.<PAS>
+         It's an active crime scene.
+         We can't run the risk you might disturb something.
+Lyle: But this is our house.
+      You can't keep us out of our house.
+Zoeller: <PAS> Look. <PAS>Come back in three hours.
+         I'll make sure you get in.
+
+<12><DPP><DRT><DLT><LAW><SSP><SSX>
+Tom: Zoeller. <NME>
+Zoeller: What the hell is that? 
+Tom: A ferret.
+     There's two live ones in a cage in the master bathroom.
+     That's why there's turds all over the place.
+Zoeller: Ferrets, I don't think I've ever seen a ferret.
+Tom: Found these back here.
+     22 caliber.
+     Never been fired.
+     And in here [ferret squeaks.]
+     Anxiety pills, sleeping pills, diet pills, pills for depression, all in the name of Mrs. Menendez.
+Zoeller: Guns, pills, and money.
+         What could possibly go wrong here? 
+
+<13><MPP><DRT><DLT><LAW><DSP><DSX>
+Secretary : The former owner of the company was Noel Bloom.
+            Jose never liked Bloom.
+            Jose was dead set against pornography, and that's how Bloom got his start, selling porn.
+            There's also Morris Levy.
+Zoeller: We heard that name.
+Secretary:  He owned a chain of record stores that Jose bought.
+            They say he's mobbed up.
+            Please.
+Tom: We’ll also want to talk to Mr Menendez's personal friends.
+Secretary: Oh, I don't know who that would be.
+           The people closest to Jose were the ones who worked with him.
+Zoeller: How long have you worked with him? 
+Secretary: Since 1976.
+           It hurts.
+           I'll miss him very much.
+           Company's having a memorial service on Friday.
+Zoeller: How were things at Mr. Menendez's home? 
+Secretary: The family was very close-knit.
+           Jose ran a tight ship.
+Tom: How about Mrs. Menendez? 
+     We noticed she was taking a lot of medication.
+Secretary: For depression.
+           She was very insecure.
+Zoeller: We found a property in Calabasas in his name. 
+         Were they separating? 
+Secretary: No. 
+           They were building a house together.
+           They used to live in Calabasas before they had to move to Beverly Hills.
+Zoeller: Why did they have to move? 
+Secretary: Erik broke into a neighbor's house.
+
+<14><MPP><DRT><DLT><LAW><DSP><DSX>
+Aunt Terry: Oh, my poor nephews. <NME>
+Lyle: We love you, Aunt Terry.
+Aunt Marta: The whole family loves you both so much.
+            You won't be alone.
+Aunt Terry: Grandma will be here later. 
+Erick: [sobbing.]
+Lyle: Yeah.
+
+<15><DPP><DRT><DLT><LAW><DSP><DSX>
+Lyle: I got rooms at the hotel for everybody.
+          We can all be together.
+
+<16><DPP><DRT><DLT><LAW><DSP><SSX>
+Aunt Marta: Oh, Joan, I'm so sorry. <NME>
+                It’s just horrible.
+                Your sister was so sweet.
+Aunt Joan:Yeah.
+
+<17><DPP><DRT><DLT><LAW><DSP><SSX>
+Uncle Carlos: Police have any suspects? 
+Lyle: Maybe people Dad worked with.
+Brian: This is some hotel you picked.
+Lyle: It’s okay, Uncle Brian.
+      Dad's company's paying for everything.
+      Plus it's safer here.
+Uncle Brian: Safer? Have you been threatened? 
+Lyle: Well, Erik was at the house this morning with our cousin Henry.
+      There was a van in the alley, like it was watching the house, right? 
+Uncle Carlos: It was weird.
+              That's for sure.
+Lyle: Dad had some sketchy business partners.
+
+<18><DPP><DRT><DLT><LAW><SSP><DSX>
+Lyle: Jamie. <NME>
+Jamie: Oh, God, Lyle. <NME>
+       I'm so sorry.
+Lyle: You didn't have to fly all the way out here.
+Jamie: No, no, I did.
+       I know how much you looked up to your father.
+Lyle: He liked you so much.
+      It'd mean a lot to him knowing you were here.
+      You know, Erik's in bad shape.
+      It'd be great if you could talk to him.
+Jamie: Yeah, sure.
+
+<19><DPP><DRT><DLT><LAW><SSP><DSX>
+Erick: Hey. 
+
+<20><DPP><DRT><DLT><LAW><DSP><SSX>
+Jose: I’m not paying for any trip to Europe.
+      You have your studies.
+      Study or work.
+      Those are your choices.
+Lyle: Jamie will be over there for a year.
+      I have to go see her.
+      We're engaged.
+Jose: Engaged? 
+      She's five years older than you.
+      She's not appropriate.
+      She's a gold-digger.
+Lyle: Dad, she doesn't need our money. 
+      She'll get rich playing tennis.
+      That's why she's in Europe.
+      She got sponsored to play on the tour.
+Jose: Are you that naive? 
+      Who do you think paid for the sponsorship?
+      I'm thinking about your future, Lyle, and so should you.
+
+<21><DPP><DRT><DLT><LAW><DSP><SSX>
+Oziel: I’m so sorry.
+Erick: Thank you so much.
+
+<22><MPP><DRT><DLT><LAW><DSP><DSX>
+Carlos: Mr. Chaleff thinks someone should take charge and pay the bills, at least until we can find your parents' wills, and we'll get the estate settled.
+Erick: Hey, Marta, Carlos, this is my therapist, Dr. Oziel. 
+Oziel: I’m so sorry for your loss.
+       Jose and Kitty were amazing people.
+       You must be overwhelmed.
+       If you need an estate lawyer, I know the top ones in Beverly Hills.
+Chaleff: Thank you, Doctor.
+         They'll let you know if they need a referral.
+
+
+<23><DPP><DRT><DLT><LAW><DSP><DSX>
+Lyle: He’s the shrink Erik has to see 'cause of the Calabasas thing.
+Marta: That’s good that he has someone to talk to.
+       Now, it's going to take a week to straighten everything out.
+       Do you and Erik have enough pocket money to tide you over? 
+Lyle: Well, our allowance is only $180 a month.
+Marta: Your father's wallet was in his study.
+       You can use his company card.
+       But make sure you're authorized.
+
+<24><MPP><DRT><DLT><LAW><SSP><DSX>
+Tom: Ballistics counted 15 shots, but they can't tell if the head shot on the male victim was first or last or if he was standing or sitting.
+Zoeller: Doesn’t always lay out nice and neat.
+Ferrero: Point taken.
+         Fingerprints? 
+Tom: Just folks who live here.
+Ferrero: Sheriff County OC have anything on Noel Bloom or Morris Levy? 
+Tom: Blooms got no strong motive.
+Zoeller: Levy’s in a coma rotting from cancer.
+         This isn't organized crime.
+         A pro wouldn't waste time picking up spent shells.
+Ferrero: Wasn’t Erik Menendez assaulted by some gang bangers in the Valley two years ago? 
+Zoeller: So they rolled into Beverly Hills to settle a two-year-old beef?
+         Ms. Ferrero, I've been working this area 14 years, and every time something bad happens here, the good citizens of Beverly Hills say, "It's got to be the bangers, or the mob, or Charlie Manson. " 
+         Always an outsider, 'cause nobody bad lives in Beverly Hills.
+Ferrero: I’m familiar with your work on Billionaire Boys Club, Detective.
+         I'll call you after I brief Mr. Reiner.
+
+<25><DPP><DRT><DLT><LAW><SSP><SSX>
+Erick: Is this how it's supposed to look? 
+Lyle: Yes.
+       We have to look sharp for the memorial.
+       We'll be onstage speaking.
+Erick: This feels too tight.
+Lyle: That’s the cut.
+Lyle: We’ll take it.
+      And the two Armanis for me.
+      You can put it on this.
+
+<26><MPP><DRT><DLT><LAW><SSP><DSX>
+Lyle: Gold, just like Dad’s.
+      Come on, pick one.
+Erick: No, I have a watch.
+       That's not a watch; It's a toy.
+       How about this one? The sporty one.
+Shop Assistance: The Submariner.
+                 It's a classic.
+Lyle: He’ll take it.
+      I'll take the gold and the stainless with the diamonds on the dial, and two gold money clips.
+Shop Assistance: Okay.
+
+<27><DPP><DRT><DLT><LAW><DSP><SSX>
+Uncle Carlos: I told you you shouldn't wear that.
+Lyle: It’s just a watch.
+Uncle Carlos: It’s a gold watch you bought four days after your parents were killed.
+              Your family won't understand.
+Lyle: My father would.
+      Please, Uncle Carlos.
+      These are his colleagues.
+      I have to represent him.
+      I'm the oldest.
+
+<28><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: Laine is thrilled with the idea of having a little sister.
+Leslie Husband: Or brother.
+                She doesn't think we're too old to be changing diapers? 
+Leslie: No. 
+        Why? 
+        Do you? 
+Leslie Husband: I signed on to this job 12 years ago for better or worse.
+                I can stand a few poopy diapers.
+Leslie: Laine said when she's done with Cal Arts, she'll come to our rescue.
+        I told her we don't have an adoption agency yet.
+Leslie Husband: It’ll be okay, baby.
+                We'll be terrific parents.
+Leslie: Yeah, not that we had great role models.
+Leslie Husband: We learned from their bad examples.
+Leslie: Who’s in your cross hairs today? 
+Leslie Husband: Usual suspects living in Los Angeles Chief Gates.
+                Chokehold. 
+                It’ll run in Monday's edition.
+[There are no suspects yet. Family members offered their own theories. My brother made the mistake of buying a business that had been used before by the mafia. When he took over.]
+Leslie: What does the brain trust at "The Times" think? 
+Leslie Husband: Soble and Johnson think there's something to this mob angle.
+[Their deaths leave behind two sons, Lyle and Erik Menendez]
+Leslie: NO. Those boys did it.
+
+<29><MPP><DRT><DLT><LAW><SSP><SSX>
+Zoeller: Hey, Tom, check this out.<NME>
+             It was broken in the night of, but with the front door open, there'd be a draft.
+Zoeller: Hey, Sergeant.<NME>
+Sergeant: Yeah.
+Zoeller: When you interviewed Erik Menendez, he said something about gun smoke? 
+Sergeant: Yeah, he saw and smelled gun smoke when he and his brother came home.
+Tom: Two hours after the shooting? 
+     Gun smoke would have dissipated by then.
+Zoeller: Especially with a draft.
+         When they brought those boys back to the station, you run a GSR on them? 
+Sergeant: Well…<PAS>no, I mean, they were so broken up.
+Zoeller: So you give them a pass.
+         The rich kids get out of jail pass.
+
+<30><DPP><DRT><DLT><LAW><DSP><SSX>
+Glenn: Where are those guys?  
+Lyle: I told you they couldn't keep up. [laughs.]
+Glenn: So how long you gonna need these bodyguards? 
+Lyle: I don't know.
+      I was at the bank in Beverly Hills the other day.
+      A guy walked by me and said, "You're next." 
+      I need them for protection.[tires squealing.]
+Body Guards: What the hell's that all about, huh? 
+Lyle: Yeah, we were just in a hurry to eat.
+Body Guards: Whoa, whoa, whoa, whoa.
+             We go in first. 
+[chuckles.]
+
+<31><MPP><DRT><DLT><LAW><DSP><SSX>
+Tennis Coach: I was supposed to meet Lyle and Erik in Santa Monica.
+                  They didn't show by 10:30.
+                  I went home.
+                  Am I a suspect? 
+Zoeller: We’re looking at everyone.
+         So what happened after you went home? 
+Tennis Coach: I went to sleep.
+              I already told Sergeant Edmonds, Lyle called me about a quarter past 
+11.
+              They said they got lost.
+Tom: They say where they were calling from? 
+Tennis Coach: No.
+              But he said he still wanted to meet up.
+              He wanted to discuss Princeton issues.
+Zoeller: What are Princeton issues? 
+Tennis Coach: Lyle was suspended for plagiarism.
+              I used to be his tennis coach.
+              We remained friends.
+              I told them I'd meet them at the Cheesecake Factory.
+Zoeller: The one in Beverly Hills?  
+Tennis Coach: Yeah.
+              But Lyle insisted he wanted to meet at the house.
+              He said something about getting an ID for Erik.
+              He insisted.
+              I told them I'd meet them at the restaurant.
+              They never showed up.
+Zoeller: He insisted you had to meet at the house? 
+         That's what you said.
+Tennis Coach: Yeah.
+Zoeller: He sounded bad.
+         I need to make a call tell a student I'm gonna be late.
+
+<32><DPP><DRT><DLT><LAW><SSP><SSX>
+Tom: Sounds like they wanted Berman there when they found the bodies.
+Zoeller: A witness to their shock.
+Tom: Yeah.
+Zoeller: They knew what they were gonna find.
+
+<33><DPP><DRT><DLT><LAW><SSP><SSX>
+Lyle: So here's the plan.
+      How long have we been coming here? 
+      Three years? 
+      It's always busy.
+      I want to buy this place, make it the flagship of a chain of hot wing joints.
+      Put one in every college town in the Northeast.
+Glenn: Freaking brilliant.
+Lyle: And Glenn, I want you to manage the flagship.
+      I'll make you a partner.
+Glenn: Are you serious? I'm in, I'm in.
+Lyle: I really need this to work.
+      I want to move fast a lightning pace, like my dad said.
+      I want to make him proud.
+      I mean, he's watching me.
+      I know.
+
+<34><DPP><DRT><DLT><LAW><DSP><DSX>
+Erick: Come on, Mom.<NME>
+           I'm gonna have practice.
+           Come watch me. [sniffs.]
+Erick: Mom, you can't stay in bed forever.
+       I know Dad cares about you.
+       We all care.
+       We love you.
+       Mom. [crying.]
+       Please. [crying.]
+           [sobbing.]
+
+<35><DPP><IDT><DLT><LAW><SSP><SSX>
+Erick: Hello? 
+Henry: Hey, Erik.<NME>
+       Did I wake you up? 
+Erick: No.
+Henry: Uh, listen.
+       I found this tape recorder in your dad's study wired to your line.
+       There's tapes marked "Erik and Lyle." 
+       Did you know your parents were recording your calls?
+Erick: No, I guess that's how Mom always knew what I was doing.
+Henry: I don't know, Erik, but if it was me, I'd be pissed.
+       No disrespect, but your parents…
+Erick: You don't understand, Henry.<ITR><MLE><ESP>
+       She was so unhappy.
+       She was defenseless.
+Henry: Okay.
+       I'll bring the cassettes home.
+
+<36><DPP><IDT><DLT><LAW><DSP><SSX>
+[phone ringing.]
+Oziel: Dr. Jerome Oziel.
+Henry: Dr. Oziel, this is Henry Llanio Erik Menendez's cousin.<NME>
+       We met at the hotel.
+Oziel: Yes.
+       Is everything all right, Henry?
+Henry: I’m worried about Erik.
+       He doesn't sleep at night
+       He has nightmares.
+       He stays in the house in a dark room all day.
+       We're worried he'll try to hurt himself.
+Oziel: Why, has he said anything?  
+Henry: Well, no, but I just think… <ITR><MLE><HSP>
+Oziel: Henry, people deal with grief in different ways.
+       Why don't you encourage Erik to give me a call? 
+Henry: Okay, Doctor.
+       Thank you, I'll do…<ITR><MLE><HSP>
+
+<37><DPP><DRT><DLT><LAW><DSP><DSX>
+Oziel: Come on.
+Judalon: I thought you forgot about me.
+Ozeil: If you don't stop camping out in my waiting room, I'm gonna have to call the    police and have you thrown out.
+Judalon: Who’s gonna take care of Dr. Daddy? [moaning.]
+Oziel: I have work.
+       Go sit over there.
+Judalon: You’re such a control freak.
+         I heard the phone ring.
+         Was that your wife? 
+         It was about a patient Erik Menendez.
+Judalon: The one whose parents got killed? 
+         You have such famous patients.
+Oziel: Extraordinary people with ordinary problems.
+       I help them get better.
+Judalon: You said you were gonna leave her.
+Oziel: Judalon.
+Judalon: Jerry.
+         I function when we're apart, but I live when we're together.
+Oziel: Laurel and I are talking about what to do about the kids, dividing everything up, but you don't dictate the timeline.
+Judalon: I feel bad, Dr. Daddy.
+         Make me better.
+
+<38><DPP><IDT><DLT><LAW><SSP><SSX>
+Zoeller: Detective Zoeller.
+Knox: My name's Richard Knox.
+      I'm a lawyer.
+      I'm calling on behalf of a woman whose son went to high school in Calabasas with Erik Menendez.
+      She asked me to pass on information.
+      She said you should speak to one of Erik's classmates, a boy named Craig.
+      They wrote a screenplay together.
+
+<39><MPP><DRT><DLT><LAW><DSP><DSX>
+Craig’s Mom: Craig, these detectives are with the Beverly Hills police.<NME>
+                 They want to ask you about Erik.
+                 I told them you'd be happy to answer their questions.
+Zoeller: Thank you, I'm Les Zoeller.
+         This is my partner Tom Linehan.
+         We understand you went to school with Erik.
+Craig: Yeah, until he moved to Beverly Hills.
+        I haven't seen him in six months.
+Zoeller: Did you and Erik write a movie script about a boy who killed his parents? 
+Craig: Yeah, and inherits millions of dollars.
+       We wrote it two years ago, when he lived in Calabasas.
+Zoeller: I’d like to read it.
+Craig: Sure.
+       There's a copy in my room.
+       Erik's mom helped us type it up.
+Zoeller: Did Erik ever talk about inheriting money? 
+Craig: No. 
+       I mean, we talked about being rich.
+       You know, we'd go into the hills above Malibu to get away from everything, you know, dream up this better ideology for the future.
+       A lot of people looked up to me and Erik in high school.
+       Like, we had this aura of superiority.
+       You…<PAS>you guys think Erik did it? 
+        I mean, you know,<PAS> killed his parents? 
+Zoeller: <PAS>What do you think? 
+Craig: Well, I mean, the script was his idea, so…<PAS>
+Tom: <PAS>Right.[clink.][thud.]
+
+<40><MPP><DRT><DLT><LAW><SSP><SSX>
+Zoeller: Hamilton Cromwell, 17, stands over the coffins of his murdered parents.
+             He says, "My father was not a man to show his emotions.
+             Sometimes he would tell me I was not worthy to be his son.
+             Nothing I have ever done was good enough for this man.
+             Out of the mouths of babes.
+Tom: The Ford Escort the boys were driving that night…it’s missing.
+
+<41><DPP><IDT><DLT><LAW><SSP><SSX>
+[phone rings.]
+Zoeller: Detective Zoeller.
+Chaleff: Yeah, this is Gerald Chaleff.
+Zoeller: Yes, Mr. Chaleff.
+Chaleff: Yeah, I hear you're talking to Erik and Lyle's friends.
+         Are the boys suspects? 
+Zoeller: At this stage, everyone's a suspect.
+         No one's been officially eliminated.
+Chaleff: Right.
+         You let me know if that changes.
+
+<42><DPP><DRT><DLT><LAW><SSP><DSX>
+Leslie: How’d you get to be the Menendez family consigliere? 
+Chaleff: I represented Erik on some petty burglaries in Calabasas teenage stuff.
+         Lyle was involved, but since Erik's a minor, their father made him take the fall so Lyle wouldn't get a record.
+         Erik got probation and court-ordered counseling.
+Leslie: So what are they like? 
+        The boys.
+Chaleff: Very polite.
+         Well behaved, for the most part.
+Chaleff: What is in the bag?  
+Leslie: Chocolate brownie Pogens.
+        Roberto's mom said they're his favorites.
+        Even hitmen have mothers who love them.
+
+<43><DPP><DRT><DLT><LAW><DSP><DSX>
+Leslie: Good morning, Roberto.<NME><TME>
+            I got you a little something.
+Roberto: Miss Abramson, you're too much.
+
+<44><DPP><DRT><DLT><LAW><DSP><DSX>
+Weisberg: All rise.
+              Judge Weisberg presiding.
+              Please sit down.
+Weisberg: Miss Abramson, is that a bakery bag? <NME>
+          Tell your client there's no eating in my courtroom.
+Leslie: He knows, Your Honor.
+        He was raised with good manners.
+Weisberg: Maybe you can learn some from him.
+Leslie: Maybe we both can, Your Honor.
+
+<45><DPP><DRT><DLT><LAW><SSP><SSX>
+Glenn: Oh, man, this is so bad-ass.<TBW>
+Lyle: If you want success, you project it.
+      You want people to be intimidated.[engine revs.][tires squeal.]
+
+<46><MPP><DRT><DLT><LAW><DSP><DSX>
+Tom: We followed up on a call that Erik and Lyle made the day after the murders.
+         It was to a bank.
+         They told us Lyle and Erik had their parents' safety box drilled open.
+Aunt Marta: That’s right I was there.
+Zoeller: The bank also said the boys insisted on opening the box in private, with just the two of them.
+Aunt Marta: Yes, in case there were personal papers that might embarrass their parents.
+Zoeller: What about a will? 
+         They mention that? 
+Aunt Marta: No.
+            We were all looking for the will.
+            It wasn't in any of the usual places.
+Zoeller: Were Lyle and Erik concerned you couldn't find the will? 
+Aunt Marta: They didn't seem interested.
+            They’re immature about money.
+            I’m sure my brother said that just to scare them so they would listen to him.
+Tom: Are you the executor? 
+Aunt Marta: No.
+            My brother-in-law is Carlos Baralt.
+
+<47><DPP><DRT><DLT><LAW><DSP><DSX>
+Lyle: We never found the will, but counting the Calabasas house and this one, your parents left you an estate worth about $14 million.
+Lyle: That can't be right, Aunt Marta.
+      We're not supposed to get anything.
+Aunt Marta: You’re the direct heirs.
+            You'll inherit everything.
+Lyle: That’s impossible.
+      Dad said he was taking us out of the will.
+
+<48><DPP><DRT><DLT><LAW><SSP><SSX>
+Jose: I’m fed up.
+          Lyle is flunking out.
+          Princeton accused him of plagiarism, and these girls he's with…<PAS>sluts.<TBW>
+Uncle Carlos: Come on, Jose.
+              It can't be that bad.
+Jose: My sons think they can sit back and wait for their inheritance.
+      I've made a decision.
+      I'm changing my will.
+      They'll have to get by on their own initiative.
+
+<49><DPP><DRT><DLT><LAW><DSP><DSX>
+Uncle Carlos: Jose talked about cutting them out of the will last spring.
+              He just went off on the boys.
+Zoeller: Do you know if he told his sons? 
+Uncle Carlos: No.
+              I have no idea if he even rewrote the will.
+              The one we found still has the boys as the heirs.
+Tom: You found a will? 
+Uncle Carlos: Yes, in a drawer in Kitty's bathroom.
+              It was dated 1980.
+              I looked for a new will.
+              I searched Kitty's computer, and I found a file named "will." 
+              I couldn't open it.
+              Called IBM to send a tech.
+              A guy drove up from San Diego a few days later with his pregnant wife.
+              He searched the computer.
+Zoeller: Where were Lyle and Erik? 
+Uncle Carlos: Erik was staying with his cousin, Henry, and Lyle was still in Princeton.
+              I have no idea who could have erased that file.
+
+<50><MPP><DRT><DLT><LAW><DSP><SSX>
+[keyboard clacking.]
+GUY: The hard drive was wiped clean.
+Zoeller: Can you get the files back? 
+GUY: We don't have that capability.
+     This technology's pretty new.
+     Maybe the Feds, but it'll take months.
+Tom: The monitor on the Menendez bank account popped this out check dated August 31st for 150 bucks to a computer firm in West L.A. signed by Lyle Menendez.
+     And, <PAS>oh, yeah, the check bounced.
+
+<51><DPP><DRT><DLT><LAW><SSP><DSX>
+Jamie: I thought you wanted to open a chain of restaurants.
+Lyle: No, that's just part of the portfolio.
+      The trucking company'd be another part.
+Jamie: Lyle, you need to focus.
+       I know that you have a lot on your mind lately, but…<PAS>you’re kind of scattered.
+Lyle: Really what do you mean? 
+Jamie: Like your checkbook.
+       I heard the message from the bank.
+       If you don't know how to balance your checkbook, I can show you.
+Lyle: Okay, look, I'm trying, Jamie.
+      I'm really trying.
+Jamie: I know.<ITR><FLE><ESP>
+       Didn't your dad teach you how to handle your money? 
+Lyle: <PAS>No.
+      He never showed me. [sighs.]
+
+<52><DPP><DRT><DLT><LAW><DSP><SSX>
+Lyle: Good morning.<TME>
+Body Guard: Lyle, we've instructed you on this.<NME>
+            You have to page us before you come down so we can secure the area.
+Lyle: Look, I heard through this friend that everything's cool with the mob now, so I won't need you anymore.
+      Thanks.
+
+<53><DPP><DRT><DLT><LAW><DSP><SSX>
+GUY 2: August 31, 1:30 p.m, my company beeped me about an urgent service call from a Lyle Menendez in Beverly Hills.
+           I called him back from my car.
+           He needed files erased from his computer right away.
+           He'd flown in from New York, and he was flying back that evening.
+           I went right over.
+Zoeller: Did you see what was on those files? 
+GUY 2: No.
+       Three had been written over.
+       The one marked "Will" was corrupted, but it only had 54k of data on it.
+Tom: How much is that? 
+GUY 2: Pastrami and rye with a side of coleslaw, and hold the pickles.
+       That’s…<PAS>29k.
+       Do you mind if I visit the men's room? 
+
+<54><DPP><DRT><DLT><LAW><SSP><SSX>
+Tom: Yeah, it looks like the parents started on the new will but never finished it, or they changed their minds.
+Zoeller: Get rid of your parents, get rid of the new will.
+         Sounds like a plan to me.
+
+<55><MPP><DRT><DLT><LAW><SSP><DSX>
+Woman 1: I was in high school when Sharon Tate was killed, but this is more shocking.
+         I mean, Beverly Hills, five blocks away from Rodeo.
+Man 1: Goes to show, all the money in the world, you're only as safe as the lock on your front door.
+Leslie: What makes you think it wasn't an inside job? 
+        What would make you think it was? Oh, 15 shots from a shotgun.
+        Those poor people were blown to bits point blank to the face, back of the head.
+        That is capital "A" anger, and there's only one thing that can generate that level of anger: <PAS>Family.
+
+

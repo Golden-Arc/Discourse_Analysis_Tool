@@ -1,0 +1,870 @@
+<HOUSE M. D.><S04E02>
+
+<1><MED><DSP><DSX><DLT><IDT><DPP>
+Greta: Big Eye<NME>, this is Cobra Zero Six. 
+       Just entered Indian Country, approaching way point four. 
+       Request confirmation to engage target on first approach. 
+Big Eye: Roger, Cobra Zero Six<NME>. 
+         Big Eye waiting for confirmation as well. 
+Greta: If we wait any longer, Big Eye<NME>, we're not gonna have any choice in the matter. 
+       I can't exactly do a U-turn here. 
+Big Eye: Roger that, Cobra<NME>. 
+         Hold for confirmation. 
+
+<2><MED><DSP><DSX><DLT><IDT><DPP>
+Man: Captain Cooper<NME>, are you okay? 
+     What happened? 
+     You weren't answering. 
+Greta: Because the damn<TBW> comm cord got disconnected! 
+       You spend a billion dollars on the avionics and don't bother to check the comm connection? 
+Man: No, I checked that twice before you got in…<ITR><FLE><HSP>
+Greta: And the next time you ask us to test a prototype, it'd be nice if your directional gyro didn't spin like a top when I'm supposed to be 500 feet off the floor.
+Man: I'm sorry. 
+     I'll go review the simulation, see if I can figure out what went wrong.
+
+<3><MED><DSP><DSX><DLT><DRT><MPP> 
+House: Who is this man? 
+       Come on, take a shot. 
+       I'm not gonna fire you every time you get a wrong answer. 
+23: Neville Chamberlain. 
+House: You're fired. 
+       Does this man look like he's ceding Czechoslovakia to a fascist dictatorship? 
+26: It's Buddy Ebsen, the actor. He's dead. 
+    Why are we…<ITR><HSP><MIM>
+House: Buddy Ebsen was the original tin man in the Wizard of Oz, for a day. 
+       He was diagnosed allergic to the aluminum dust in the makeup. 
+       His lungs failed. He nearly died. Question is, why?
+11: Didn't you just say he was allergic? 
+House: You may not have legs, but you got ears. 
+       I suggest you use them. 
+       I said he was diagnosed allergic. 
+       Since we are currently short exactly one interesting patient, we are gonna figure out what really happened to Buddy Ebsen in 1938. 
+       Now, on one hand, he's not getting deader. 
+       On the other hand, your jobs hang in the balance. So…<ITR><HSP><FIM>
+Lisa: House?<NME> 
+House: I want seven alternate diagnoses when I get back. 
+
+<4><MED><DSP><DSX><DLT><DRT><MPP>
+Lisa: Did you forget how to count to three? 
+House: I get a budget for three. 
+       Doesn't mean I can only hire three. 
+Lisa: Actually, that's exactly what it means. 
+House: I cut the permanent salaries by 10º/º. 
+       Over three years, that'll more than make up for the breakage on the 27 that I'm gonna weed out over the next few weeks. 
+Lisa: There's 40 people in there. 
+House: Row D, you're fired. 
+       I didn't actually count all the resumes. 
+Lisa: This is stupid.<TBW> You can't manage that many people. 
+      You're just gonna keep weeding them out arbitrarily?
+House: Sure, and having them sitting in my office schmoozing about their favorite Algerian surfing movies is a much better system. 
+       Wait a second. 
+       Were you in Row D? 
+19: Yes. 
+House: My apologies. 
+       My boss says I'm being arbitrary and stupid. 
+       Row D is not fired. 
+       Row C is fired!  
+       See, that was not arbitrary. 
+       Well, I'd love to chat, but I've been paged. 
+       That's interesting. 
+       Apparently, I paged myself. 
+
+<5><MED><DSP><DSX><DLT><DRT><DPP>
+House: If you have a resume there, I'm not interested. 
+       But I wouldn't mind hearing how you got my pager number. 
+Greta: It's not a resume. $50,000. 
+House: Does One-Eyed Nicky want me to run that to Jimmy the Nose? 
+Greta: It's for my medical bills. 
+       I need you to find out what's wrong with me. 
+House: Insurance is usually cheaper than that. 
+       Cash means there's something to hide. 
+Greta: I'm a captain in the Air Force, about to start a new assignment. 
+       NASA's astronaut training program. 
+House: I discovered salt and created FM radio. 
+Greta: Something is wrong with my eyes, my ears...<PAS> 
+House: Well, if it's fixable, the Air Force will do it for free. 
+       If not, it doesn't matter. 
+Greta: There are a hundred applicants ready to take my place who don't need to be fixed. 
+       I need to do this off the books. 
+       I did the research. 
+       You're the best, you break rules, and you don't care about anyone except yourself. 
+House: Well, let's say that's true. 
+       You get a new job. 
+       Hospital gets a nice wad of cash. 
+       What do I get? 
+Greta: I crashed a flight simulator because I started to hear with my eyes. 
+
+<6><MED><DSP><DSX><DLT><DRT><MPP>
+11: The aluminium could have been tainted...<ITR><HSP><MIM>
+House: Don't care.
+       New patient! 
+       With synesthesia. 
+       New rules. 
+       You generate a lab report, you shred it. 
+       X-ray, you melt it. 
+       No notes, no records, nothing. 
+       As far as you're concerned, the patient is Osama Bin Laden and everyone not in this room is Delta Force. 
+       Any questions? 
+11: We're protecting Osama Bin Laden? 
+House: It's a metaphor. 
+       Get used to it. 
+       Any more questions? 
+11: And you're not even gonna tell us her name? 
+House: You think her name might be connected to what's wrong with her? 
+       Here's Osama. 
+       Now, you all have numbers, so we're gonna do this alphabetically. 
+       8, 15, 5
+39: Is the synesthesia new? 
+Greta: Yes. 
+39: Any history of similar symptoms or psychiatric...<ITR><LSP><FIM> 
+Greta: No, nothing. 
+39: Are you on any prescription meds or use any other drugs? 
+Greta: No. 
+39: Should we trust her answers? 
+House: What, you think I'd pull you off Buddy Ebsen just for a junkie? 
+24: Can we trust your answers? 
+House: You gotta trust someone, right? 
+24: No. 
+    Has anyone close to you been sick lately? 
+    A family member, co-worker? 
+Greta: No, not that I'm aware of. 
+House: Two down. 
+       Kitty Carlisle<NME>? 
+13: Do you spend much time above 20,000 feet? 
+House: Why would you ask that? 
+13: People who fly are immobile for long periods. 
+    Could be a leg clot that embolized to the brain through a PFO. 
+House: That's an unusual choice. 
+13: Well, like you said, you wouldn't interrupt Buddy with anything that wasn't. 
+House: The patient is a frequent flyer. 13, 32, 39, go get an EEG, MRI and angiogram. 
+       How many of you think that Oswald acted alone? 
+6: If, by alone, you mean that he was unaware that the CIA...<ITR><HSP><MIM>
+House: Oh, shut up.<TBW> 
+       Split yourself into two groups. 
+       Test her blood. 
+       Test her stool. 
+       Who likes the designated hitter? 
+       You're wrong. 
+       You're lucky you're not fired. 
+       Two more groups LP and cultures. 
+       Who doesn't know what a designated hitter is? 
+       Okay, here's her address. 
+       I want you to break in and find out what she's hiding. 
+2: Why don't we just ask the patient for the key? 
+House: Well, if you can find out what she's hiding just by asking, we'd have to redefine hiding. 
+       You want to live in this country, learn the language. 
+11: What do you want the rest of us to do? 
+
+<7><MED><SSP><DSX><DLT><DRT><MPP>
+11: 30 people for 3 openings and I want you to wash my car? 
+    This is not why I busted my ass<TBW> in med school. 
+18: We spend a half an hour cleaning the car. 
+    Big deal. 
+11: It's demeaning. 
+18: Work is demeaning? 
+    We're too good for this? 
+24: Oh, don't give me that honest day's labor crap. 
+    We all went to med school so we wouldn't have to do an honest day's labor. 
+18: What about an honest hour's labor? 
+    In exchange, we get a shot at learning from one of the best diagnosticians in the world. 
+24: No, we don't. 
+    If we did, we'd be one of the ones drawing blood or checking for toxins. 
+    We're done. 
+    He's just not gonna cut us loose until we've dusted his shelves and starched his shirt. 
+    I'm out of here. 
+    Who's with me? 
+
+<8><MED><SSP><DSX><DLT><DRT><MPP>
+2: Are we sure he wasn't joking? 
+   Maybe this is just a test. 
+10: Everything's a joke and everything's a test and he wants us to do it. 
+    Come on, get up here. 
+26: Well, I could try, but I pulled a muscle in 1987. 
+2: I didn't waste two years repeating medical school to be arrested and deported. 
+10: Why'd they make you repeat? 
+    Not enough gym credits? 
+2: According to the state of New Jersey, medical schools in my country suffer from not being from this country. 
+26: You know, if you get it open, you're gonna have to come down and let me in. 
+10: Or, you could just wait out here. 
+    This is a competition.
+
+<9><MED><SSP><DSX><DLT><DRT><DPP> 
+18: Change your mind? 
+24: No. 
+18: Then why are you here? 
+24: Never intended to quit. 
+18: Then why did you...<ITR><FLE><ESP>
+24: Intended to get everyone else to quit. 
+   Get off the car. 
+18: I need to clean it. 
+   We need to clean it. 
+24: I stole his keys. 
+   We'll take it to a car wash. 
+   He's got people breaking into a woman's apartment. 
+   Obviously, respecting personal property isn't one of the rules. 
+
+<10><MED><DSP><DSX><DLT><DRT><MPP>
+39: No evidence of clots, and other than elevated red blood cell count...<PAS>the blood work was unremarkable.
+HOUSE: Got a problem with the naked female form?
+32: Not at all.
+13: Maybe she's just not used to seeing it spooning with the naked dolphin form.
+House: That's not a dolphin, it's a porpoise. 
+       There is a difference you know. 
+       Salary for one thing.
+13: You want us to give you a minute? 
+    High red blood cell count likely means...<ITR><HSP><MIF>
+House: Carbon monoxide poisoning. 
+39: There are a lot of different explanations for elevated red blood cells. 
+House: Yeah, well, which one fits best with the damaged flue that your competitors found in the gas fireplace in Osama's cave? 
+
+<11><MED><DSP><DSX><DLT><DRT><DPP>
+24: Car's clean. 
+House: Can I have my car keys back? 
+       Give me the car keys, put the patient in a hyperbaric chamber and no more prime numbers for you. 
+       Thank you. 
+
+<12><MED><SSP><DSX><DLT><DRT><DPP>
+6: The high pressure and oxygen will flush the carbon monoxide from your system. 
+   This much oxygen for too long can have some toxic effects, so we'll do this in cycles. 
+18: Can I talk to you a second? 
+
+<13><MED><SSP><DSX><DLT><DRT><DPP>
+   You're working that thing all the time. 
+   Is everything all right? 
+   We're supposed to be watching her heart rate and blood pressure. 
+24: Yeah, I was until you pulled me over here. 
+   I'm sending out a consult on another patient. 
+   Okay. 
+   What? 
+   I'm not quitting my old job until I'm sure I've got a new one. 
+18: I didn't say anything. 
+24: You had a look. 
+18: Yeah, I did. 
+   Sorry.
+
+<14><MED><SSP><DSX><DLT><DRT><MPP> 
+6: Hey, I think she's having a heart attack. 
+Greta: No, I just feel a little funny. 
+24: Tachyarrhythmia. 
+18: Call the code! 
+24: Nothing. 
+18: V-fib. 
+   Where the hell is...<ITR><ESP><MIM>  
+6: Clear! 
+18: Are you crazy? 
+   You can't use those! 
+   We're in a hyperbarc...<ITR><ESP><MIM>
+6: Clear! 
+18: She's on fire! 
+6: Her heart's beating. 
+18: And we are so fired. 
+
+<15><MED><DSP><DSX><DLT><DRT><MPP>
+6: We've started her on nitro and blood thinners. 
+   Electrolytes and post-arrest EKG were normal. 
+   The attack was not caused by the procedure. 
+House: So, what does cause synesthesia, high red blood cell count and heart attack? 
+24: Aren't we gonna discuss what caused the sudden appearance of burnt flesh? 
+    He brought charged paddles into an oxygenated room. 
+House: And you didn't stop him. 
+       Means either you thought it was a chance worth taking, making you a hypocrite, or you thought he'd fail, making you a cutthroat little pixie. 
+       What causes…<ITR><LSP><FIM>
+15a: Takayasu's syndrome. 
+15b: Not without a rash and a fever. 
+   It's gotta be Whipple's. 
+15a: No way. 
+   You ever see Whipple's without abdominal pain? 
+House: Stop it! 
+       This argument is distracting every male and lesbian here. 
+       You're both right. 
+       In the sense that you've convinced me that you're both wrong. 
+26: What about cardiomyopathy? 
+    Structural abnormality causes the heart attack and throws clots to the brain, leading to synesthesia. 
+House: How old are you? 
+26: I'm 21, unless it's relevant. 
+House: Okay, Scooter<NME>. 
+       Do a transoesophageal echo. 
+       And since the positive divisors of 26, 2 and 13 have them assisted. 
+       The rest of you, go to the cafeteria. 
+       Document 10 things that can cause infection, each.
+
+<16><MED><SSP><SSX><DLT><DRT><DPP> 
+Wilson: I wouldn't. 
+        Someone named 17 thinks there could be lysteria in the cream cheese. 
+House: What's Chase doing here? 
+Wilson: You saw Chase? 
+House: Last night. 
+       Outside my office. 
+Wilson: That's interesting. 
+House: It's more curious than actually...<ITR><MLE><ESP>
+Wilson: Chase took a job at the Mayo Clinic in Arizona a week ago. 
+House: Interesting. 
+Wilson: It wasn't Foreman or Cameron you saw, but Chase, the one you fired. 
+House: Not interesting. 
+       Someone who looked like someone I used to know walked by my office. 
+Wilson: It's always interesting when repressed guilt starts unrepressing itself. 
+House: The only thing I feel guilty for, is this. 
+
+<17><MED><SSP><DSX><DLT><DRT><MPP>
+26: We're gonna feed this endoscope down your esophagus, try to find where your heart might be damaged. 
+    It's gonna feel uncomfortable, but just keep swallowing, I promise you'll be fine. 
+13: She's ready. 
+26: Go ahead, take a whack. 
+2: Right, so if we don't find anything, House blames me. 
+26: Or you find something and get a gold star. 
+13: Why don't you wanna do it? 
+26: House isn't gonna be impressed by a gray hair doing his ten-thousandth echo. 
+13: So, you're just being altruistic? 
+26: That makes you suspicious, Doctor...<ITR><ESP><FIM>
+13: Call me 13. 
+    I'm not getting invested. 
+
+<18><MED><DSP><DSX><DLT><DRT><MPP>
+2: Her heart's structurally sound. 
+   No clots, no valvular defects, no wall motion abnormalities. 
+House: Got that from structurally sound. 
+15a: What did she say? 
+6: Structurally sound. 
+House: I assume you're not all walking with me to tell me you found nothing
+2: It showed a short burst in the...<ITR><HSP><MIF>
+House: Okay. Who's next? 
+13: It showed a short burst of atrial flutter. 
+    I ran a rhythm strip twice and got the same result. 
+House: Stop. 
+       Okay, here's how we diagnose in transit. 
+       I lead, you draft, I move, you move, I stop, you stop. 
+       Got it? 
+13: Flutter could mean hormone overproduction...<ITR><HSP><MIF>
+House: Wait a second. 
+       Why did you do the test? 
+       I gave it to Scooter. 
+13: We didn't think it mattered. 
+House: It doesn't. 
+       It matters that you let her. 
+       Okay, 10, 24, 39, run a TRH stimulation test for hyperthyroidism. 
+2: That could cause another heart attack. 
+House: Proving her first attack was caused by her thyroid, which is kind of the point, right? 
+       Uh-uh, uh-uh, uh-uh. 
+       I ride alone. 
+
+<19><MED><DSP><DSX><DLT><DRT><MPP>
+39: The hormones stimulate your thyroid. 
+    Don't worry if you get flushed or you start to sweat. 
+    It means the thyroid's working. 
+    And, if you want, I can remove that mole. 
+    I'm a plastic surgeon. 
+    You're allowed a little vanity. 
+Greta: I'm fine with the way I look. 
+39: Good for you. 
+    Although, I do find it a bit odd that someone so self-assured doesn't want her doctors to find out what's wrong with her. 
+Greta: What are you talking about? 
+   Why else am I here? 
+39: You're jerking us around.<TBW> 
+    You're handcuffing us with all these restrictions. 
+Greta: I'm feeling warm. 
+10: Her pulse is 120. 
+    Stop pushing. 
+    If House thought this would handicap us, he wouldn't have taken the case. 
+39: Or maybe that's why he took the case. 
+    He wants to see if we can get it out of her on our own. 
+24: What did you find at her home? 
+Greta: You were in my home? 
+10: Nothing. 
+24: Travel pictures, yearbook, her name on an employment slip? 
+10: We weren't checking for that stuff, okay? 
+    Obviously, House didn't want us to. 
+Greta: You're gonna You're gonna out me, aren't you? 
+   You're gonna ruin everything. 
+39: Nobody's trying to do anything, just relax. 
+24: This is not a normal response to the test. 
+   Pulse and BP are too high. 
+Greta: Get away from me. 
+       Get away from me! 
+       Don't touch me! 
+
+<20><MED><DSP><DSX><DLT><DRT><MPP>
+House: Paging me during Judge Judy, not the best way to win my affections.
+10: She had another episode of synesthesia. 
+    It set off a psychotic attack. 
+    And now she ran in there,  and must have jammed something in the handles. 
+House: So, you call me? 
+       The guy with one good leg and zero leverage? 
+39: We break that door down, security shows up and her name goes in a file. 
+House: Luckily, violence is not the last resort. 
+       Extortion is. 
+       So, go ahead. 
+       Extort her. 
+10: If you don't open this door, we're gonna break it down. 
+House: Clever. 
+       An appeal to her deep concern for hospital property. 
+       Let's see how that works. 
+10: If you don't open this door, you're going to die. 
+Greta: Go away! 
+House: Well, you seem to be getting to her. 
+39: She doesn't care if she dies. 
+House: You think she wants to die? 
+39: No, but I think she only wants to live under certain circumstances. 
+    Open up, or I blab your secret to everyone. 
+    You don't know anything. 
+House: I do. 
+Greta: No! 
+House: Anybody think that a sedative might...<ITR><LSP><FIM>
+24: I'm trying.
+
+<21><MED><DSP><DSX><DLT><DRT><DPP> 
+Lisa: Okay! 
+      Who's that? 
+      Who is she? 
+39: Osama Bin Laden. 
+
+<22><MED><DSP><DSX><DLT><DRT><MPP>
+Lisa: Who is she? 
+18: Is she okay? 
+Lisa: She's stable. 
+      Who is she? 
+26: What did House tell you? 
+Lisa: That she is on the run from an international crime syndicate. 
+26: That's what he told us. 
+Lisa: House may be your boss, but I'm House's boss. 
+      You wanna work here, I better be okay with it! 
+2: Honestly, he didn't tell us anything about who she was or what she...<ITR><ESP><MIF>
+10: Her name's Greta Cooper. 
+    Wants to be an astronaut. 
+    Doesn't want NASA to know her brain's getting her ears confused with her eyes. 
+    I went through her mail. 
+
+<23><MED><DSP><DSX><DLT><DRT><DPP>
+Lisa: You're a virus, House<NME>. 
+      Now instead of one liability, I've got 20. 
+House: Apparently only 19. 
+       Which number was it? 
+Lisa: From now on, everything you do gets charted. 
+      With pen, on paper, in a binder that says, "Princeton-Plainsboro Teaching Hospital" on the cover. 
+House: Mom!<NME> 
+Lisa: If you wanna run something through the labs, I get a copy. 
+      If you do scans, I get a copy. 
+      If you think about doing scans, I get a copy. 
+House: You know my current thoughts, right? 
+       I don't have to put those on paper. 
+
+<24><MED><DSP><DSX><DLT><DRT><MPP>
+House: Three issues. 
+       One, number 10, you're fired. 
+10: She told you? 
+House: Well, it had to be someone who went to her home.
+       Number 26 is half asleep. 
+       Missed his afternoon nap. 
+       Obviously, he doesn't feel guilt. 
+       Number 2 is here on a visa, she can't jeopardize. 
+10: You can't know. 
+House: And that chick's been pointing at you since I walked in. 
+       Issue two, what causes synesthesia, high RBC, tachyarrhythmia and panic attacks? 
+37: Slight glucose elevation. 
+    That says thyroid. 
+39: Baseline thyrotropin's 1.1. 
+24: 1.3. 
+39: Whatever. 
+    Her thyroid's working. 
+24: What about her liver? 
+    Original ALT levels weren't abnormal, but were near the edge. 
+6: She has patient data on her PDA. 
+24: I do not. 
+6: I saw the lab values. 
+   You said we couldn't write anything down. 
+House: I also said I wanted answers. 
+24: Liver cancer's the most likely. 
+    Paraneoplastic syndrome. 
+    We need to do an MRI. 
+House: Which brings us to issue three. 
+6: You're saying we can write stuff down? 
+House: To you, I'm saying, you're fired. 
+       To everyone else...<ITR><LSP><MIM>
+6: But you said specifically...<ITR><HSP><MIM>
+House: I hate tattletales. 
+6: She tattled on 10. 
+House: Now, you've tattled twice. 
+       Issue three...<PAS> Come on, let's go. 
+       Issue three, how do we do tests when we can't do tests? 
+2: Dr.Cuddy didn't say we can't do tests, she said we have to chart. 
+House: If we chart, we won't get consent, so we can't. 
+2: The patient's life may depend on her consenting. 
+House: Her dreams depend on her not consenting. 
+       So, how do we do tests when we can't do tests? 
+       You've got an hour. 
+
+<25><MED><SSP><SSX><DLT><DRT><DPP>
+House: How do you scan a liver without scanning a liver? 
+       And what's Cameron doing here? 
+Wilson: Interesting, so you're seeing Cameron now. 
+House: No, not interesting, because not seeing. 
+       Saw. 
+       My patient won't consent to MRIs or ultrasounds. 
+       You've dealt with more liver cancer than anyone else here. 
+Wilson: So, you want me to share the secret scanning techniques I learnt in Nepal？ 
+        Unfortunately, the monks made me swear a blood oath. 
+        Where was she? 
+House: In the lobby. 
+       I guess, we could palpate the area around the liver. 
+Wilson: Which won't work unless the tumor's enormous, which you know, which means you're here because these visions are freaking you out.
+House: She had blond hair. 
+       Why would I hallucinate that? 
+Wilson: Yes, yes! 
+        Why are you merging Cameron and Chase? 
+        We should find out before the next time you see her, when she'll be black. 
+House: Because, of course, it's scientifically impossible for a person to go back and visit somewhere they worked. 
+Wilson: No. 
+        But since she's not a dead cat, it is scientifically impossible for her to be in two places at once. 
+House: Physics joke. 
+       Don't hear enough of those. 
+Wilson: She just called me from Arizona. 
+        Notice the area code, 480. 
+        They put an offer on a place in Scottsdale. 
+        Do you want to talk or should I? 
+        I guess we could both talk. 
+        Although, they're engaged, and if you're staying in touch, you might wanna buy them...<ITR><MLE><ESP>(行为打断)
+        Maybe it's not repressed guilt, maybe it's just panic. 
+        Right now, you've got enough fellows to build a railroad, but you're gonna have to narrow that room full of numbers down to three people. 
+House: Any chance you could turn this creative brilliance towards my patient's liver? 
+Wilson: I think you're gonna choose people for reasons that have nothing to do with their skills. 
+        I think you're gonna choose people just because you can't stand them. 
+        Because if you like them, well, that's just stressful. 
+House: Stress. 
+       I like it. 
+
+<26><MED><DSP><DSX><DLT><DRT><MPP>
+House: We need to stress the patient's liver. 
+15b: You mean make her sick? 
+House: I mean, make her sick in a specific way. 
+       If her liver's given to malfunctioning, we make it malfunction. 
+15b: Are we on the other side of wrong here? Don't we have an ethics board that we should consult, or...<ITR><HSP><MIF>
+House: I fired you. 
+6: No, you didn't. 
+24: He fired you, you're number 6. 
+6: No, I'm not. I'm number 9. 
+House: I approve of your shamelessness. 
+       You're still fired. 
+       So, how do we stress her liver? 
+15b: Lying and paperwork, I get. 
+   Shutting down organs...<ITR><ESP><FIF>
+13: I think We could give her intravenous vitamin D and stick her in a tanning booth. 
+    If she goes into a coma, we know it's a metabolic problem. 
+House: Nice. 
+       But vitamin D's metabolized by the liver and kidneys. 
+       It wouldn't tell us which one's screwed up. 
+6: We could get her wasted. 
+   Give her shots of tequila and measure how long it takes for her to pass out. 
+   If it's too fast, then we know her liver is not processing alcohol. 
+   Means it's shot. 
+House: I like you, number 9. 
+
+<27><MED><DSP><SSX><DLT><DRT><DPP>
+18: You wanted to see me? 
+House: You a Mormon? 
+       You're wearing a ring from Brigham Young. 
+       Or did your folks just do the lawns? 
+18: The Church has a very progressive attitude towards racial equality. 
+House: Don't care. 
+       Actually, I'm thanking God. 
+       You're the only non-drinker we got. 
+       We need a control group to establish whether the liver's deterioration is within normal range. 
+       Got a big drinker, a medium drinker, now I got a no-drinker. 
+18: Just do an MRI. 
+House: You really think the guy who created heaven and earth cares what you put in your digestive tract? 
+18: Her dream shouldn't outrank my religious belief. 
+House: Why not? 
+       Her dream might come true. 
+       All life is sacred, right? 
+18: We're not saving her life. 
+    We're doing a diagnostic test. 
+    Not even a real diagnostic test. 
+House: Well, that fake test might really save her life. 
+       Would you pull an ass out of a pit on the Sabbath? 
+       Would you or would you not pull an ass out of a pit on the Sabbath? 
+18: Fine. 
+    I'll do it. 
+House: Good. 
+
+<28><MED><DSP><DSX><DLT><DRT><MPP>
+Greta: Why'd you have to pick tequila? 
+       I assume a single malt would've worked just as well. 
+13: Wasn't our choice. 
+House: Okay, two minutes, then round number five. 
+       So, tell me about the magic underwear. 
+18: Is that why you're here? 
+House: I'm the big drinker, doing my part for science. 
+       The interesting question is why your religious beliefs are suddenly less important than her dreams. 
+18: You're reversing your argument? 
+House: I know what I believe. 
+       I'm just not quite sure what you believe. 
+18: Well, LDS doesn't try to dictate every detail of our lives. 
+   When a situation isn't clear, we're encouraged to make our own decisions. 
+House: But your judgment was to say no. 
+       You used my judgment. 
+18: You made a good argument. 
+House: Rational arguments don't usually work on religious people. 
+       Otherwise, there would be no religious people. 
+18: You're an atheist. 
+House: Only on Christmas and Easter. 
+       Rest of the time, it doesn't really matter. 
+18: Where's the fun in that? 
+   A finite un-mysterious universe? 
+House: It's not about fun. 
+       It's about the truth. 
+18: The truth is we're having this debate because you wanna figure something out about me. 
+   What have you got so far? 
+
+13: Greta! 
+    Greta! 
+    She can't breathe. 
+18: We need to intubate. 
+Greta: No! 
+18: At least oxygen. 
+Greta: NASA will need to know why! 
+
+<29><MED><DSP><DSX><DLT><DRT><DPP>
+Lisa: I checked the tests you ordered. 
+House: Did you just see Foreman? 
+Lisa: You measured the density of her teeth. 
+House: It's a shortcut test for hypocalcaemia. 
+       You had to have just passed him. 
+Lisa: So, you suspected hypocalcaemia from her complete lack of broken bones? 
+      Is that why you also ran three tox screens? 
+House: Patient might have been sneaking uppers. 
+       He was in a white coat. 
+       Did you hire him back? 
+Lisa: Foreman is running the diagnostic department at New York Mercy. 
+      Have you been drinking? 
+
+<30><MED><DSP><DSX><DLT><DRT><MPP>
+18: She was having trouble breathing.
+    Refused oxygen and intubation. 
+House: So you put her on a treadmill? 
+13: Records will show that we gave her oxygen as a part of a routine cardio stress test. 
+    She gets to breathe, your boss gets her paperwork. 
+House: Whose idea was that? 
+13: It was a joint decision. 
+House: It never is. 
+       So, how old were you when your brother left home? 
+13: Why do you think that I...<ITR><HSP><MIF>
+House: Why aren't you answering? 
+       Did your mother initiate the divorce? 
+13: We should probably focus on what's wrong with her lungs. 
+    Are you Wiccan? 
+18: She really can't breathe. 
+House: Okay. Hold still. 
+18: What are you doing? 
+House: Auscultatory percussion. 
+       If you have a good ear, you can...<PAS>
+       You didn't have a lot of friends, because you chose not to...<ITR><LSP><FIM>  
+13: You can hear while you're talking? 
+House: You can detect not only structural details, but small, deep masses. 
+       Game's over. 
+       You either have lung cancer or tuberous sclerosis. 
+       We need to cut you open and biopsy. 
+Greta: That'll leave a scar. 
+       NASA doctors will see it. 
+       They'll know. 
+House: I never opened for Springsteen or slept with Barbara Feldon. 
+       You can live for years without dreams. Without lungs...<ITR><LSP><FIM>
+Greta: Find a way. 
+House: Okay. As long as you keep saying it strongly, you won't die. 
+Greta: Find a way. 
+
+<31><MED><DSP><DSX><DKH><DRT><MPP>
+House: How do we force a patient into surgery? 
+       Texas bag scam? 
+       Saratoga Wire? 
+       Paris Exposition Trick? 
+18: The problem's not the surgery, it's the scars, and we have a plastic surgeon here who can hide them.
+39: Not that well. 
+    NASA's gonna check every cranny. 
+6: I say we just put ether in her oxygen and do what we have to do. 
+2: She'll sue. 
+24: For what? 
+    Making it harder for her to lie to the government? 
+39: We don't need to hide them. 
+    We give her elective cosmetic surgery. 
+    The incisions will give us access to her lungs. 
+    And she's got an innocent explanation for the scars. 
+2: You mean, like, liposuction. 
+39: No, no. 
+    Those incisions are too far from the lungs. 
+    We don't subtract. 
+    We add. 
+    Turn her Bs into Cs. 
+House: It's myth that fake hooters blow up at high altitude. 
+       She'll be fine. 
+       Just think of it as one giant rack for mankind. 
+
+<32><MED><DSP><DSX><DKH><DRT><DPP>
+Greta: I fought for years to be taken seriously. 
+39:Trust me, you'll be taken more seriously. 
+   Just sign the form. 
+Greta: This'll make me a joke. 
+   There's gotta be another way. 
+39:I've known a few people who had dreams. 
+   One thing they all had in common was they got laughed at and they didn't care. 
+
+<33><MED><DSP><DSX><DKH><DRT><DPP>
+Lisa: You bumped a splenectomy for a boob job? 
+House: Would you condemn this woman to a life where people look at her face when they talk to her? 
+Lisa: If you don't explain this, I'll cancel the surgery. 
+House: Can I explain why you're here? 
+Lisa: I think I just told you why...<ITR><MLE><LSP>
+House: I scheduled a diagnostic patient for a boob job. 
+       Which is ridiculous. 
+       So, obviously you had to confront me. 
+Lisa: With you so far. 
+House: But I'm gonna give you a reason. 
+Lisa: Not a good one. 
+House: No. Not even close to a good one. 
+       But here's the drag from your point of view. 
+       My explanation will make sense. 
+       Not to the board, not to a judge, but to you. 
+       So you'll let me do it. 
+       Then, you're gonna have to sit next to me at the administrative hearing. 
+       Don't you have better things to do? 
+       It's in the best interests of the patient. 
+
+<34><MED><DSP><DSX><DKH><DRT><MPP>
+39: Trocar's in, you're good to go. 
+House: Deflate the lung. 
+2:There, a cyst. 
+39: Cysts, I count three of them. 
+House: Probably the same, if not more, on the left lung. 
+       Okay, so what's been working overtime to kill Miss Bin Laden? 
+2: We know her name now. 
+House: Yeah, but I forgot it. 
+       Say the magic word and get immunity from the next challenge. 
+13: Alveolar hydatid disease. 
+    Hits all the organs. 
+House: She'd have had multiple seizures by now. 
+39: Pulmonary Langerhans'. 
+House: Doesn't explain the red blood cells. 
+       Come on! 
+       Cysts, synesthesia, heart attack. 
+       You guys have gotta...<ITR><LSP><MIM>
+Chase: Von Hippel-Lindau syndrome. 
+       Raises red blood cell count, causes masses on the organs. 
+       If one of the masses is a pheochromocytoma, it could cause neurologic episodes and a heart attack. 
+House: Do you see a blonde guy who still has peach fuzz standing up there? 
+39: Yeah. 
+House: This is a closed procedure. 
+       Gallery's off limits. 
+Chase: Not to the surgical staff. 
+39: Are you gonna hire that guy instead of us? 
+House: Not a chance. 
+       I love you guys. 
+       Please dig out the cysts, histology to confirm Von Hippel-Lindau. 
+       Don't forget her chesticles. 
+
+<35><MED><SSP><SSX><DLT><DRT><DPP>
+House: Calling Arizona was a very nice touch. 
+Wilson: You do have residual...<ITR><MLE><ESP>
+House: Not only do I not have residual feelings, I didn't even have primary feelings. 
+Wilson: You freaked...<ITR><MLE><ESP>
+House: You lied!
+Wilson: Because you knew it meant...<ITR><MLE><ESP>
+House: It meant nothing! 
+       I saw him 'cause he was there. 
+       Did Cameron follow her bashert to the surgery department?
+Wilson: I think Chase followed her. 
+        She's been a senior attending in the ER the last three weeks. 
+        A blonde senior attending, to be accurate. 
+House: And Foreman, is he back in neurology? 
+Wilson: He's at New York Mercy. 
+        He's been there a month. 
+        Did you see Foreman? 
+House: No.
+
+<36><MED><DSP><DSX><DKH><DRT><MPP> 
+Greta: So, I'm cured. 
+6: You're fine for now, but Von Hippel-Lindau is a genetic disease. 
+   There's no cure. 
+24: Greta, you need to come clean to NASA. 
+Greta: You said you got all the cysts. 
+24: They could re-emerge. 
+Greta: I'll go to radiology clinics. 
+   I'll get regular screenings. 
+24: If something happened while you're up there, you'd be playing Russian Roulette with other people's...<ITR><HSP><MIF>
+House: Relax. 
+       She doesn't have to tell, and neither do you. 
+       Turns out the NASA doctors even know where the hyphen in Von Hippel-Lindau goes. 
+Greta: You called them? 
+House: I'm not an idiot. 
+       Those shuttles fly over New Jersey. 
+
+<37><MED><DSP><SSX><DKH><DRT><DPP>
+House: So, here we are. 
+       The big moment! 
+       Which of you gets to live to be abused another day? 
+       And which of you goes home and rationalizes being fired as character building? 
+       The following numbers, thanks for playing. 
+       21, 19, 8, 34, 17, 29, 5, 36, 2. 
+       The rest of you, I'll be in sometime between 10:00 and 3:00. 
+       Oh, and 26, stick around a while. 
+
+<38><MED><DSP><DSX><DKH><DRT><DPP>
+2: I did nothing wrong.
+HOUSE: Lots of people did nothing wrong.
+2: Other people screwed up. I never even...
+HOUSE: Other people took chances. 26. 
+
+<39><MED><DSP><SSX><DKH><DRT><DPP>
+26: Buddy Ebsen actually was allergic to...<ITR><MLE><HSP>
+House: Yeah, I know. 
+       How old are you? 
+26: 21.
+House: You don't think it's relevant. 
+26: I'll likely have less time to use the skills you teach us, but I don't think that's significant to you. 
+House: How about the fact that you never went to medical school? 
+       Which is why you let the unlucky number(13) do the trans echo. 
+       At least you're ethically unethical. 
+26: 30 years I worked at the Columbia med school admissions office. 
+    Audited all the classes, most of them, more than once. 
+    I just never got a diploma. 
+House: You had to know I'd find out sooner or later. 
+26: I know you break rules. 
+    I thought maybe you'd break one for me. 
+House: I can't hire you as a doctor. 
+       But you can still tell me what you think. 
+       You could also fetch me coffee and pick up my dry cleaning. 
+       Until I can decide whether or not to keep you. 
+26: So, I'm playing this whole game to be, like, your secretary? 
+House: Assistant sounds marginally less demeaning. 
+26: It's not my dream job. 
+House: Actually, it is. 
+       It's just not your dream title. 
+
+<40><MED><DSP><DSX><DKH><DRT><DPP>
+Cameron: Three weeks. 
+         For someone who never misses something small, you missed something big. 
+House: You're an idiot. 
+Cameron: The hair, where I'm working, or both? 
+House: The hair makes you look like a hooker<TBW>. 
+       I like it. 
+       Pulling pieces of windshield out of car accident victims, and reattaching fingertips sliced off cutting bagels? 
+       At least Chase's move is only one step down. 
+Cameron: I can do good here. 
+         Get it out of my system. 
+         Why'd you rat your patient out to NASA? 
+House: I don't know who's been gossiping about ethics instead of sex, but I hope they've already been fired. 
+       Which number was it? 
+Cameron: Greta.<NME> 
+House: Number. 
+Cameron: No number, the patient. 
+         How do you think she got your pager number? 
+         She came into the ER, didn't want to talk...<ITR><MLE><HSP>
+House: I didn't rat her out. 
+Cameron: You lied? 
+House: I suppose I should tell her that before she keys my car. 
+Cameron: Why lie? 
+House: I had to stop some leaky faucets. 
+Cameron: What did it matter? 
+House: It was no one's business. 
+Cameron: Right. 
+House: She's gonna be the safest astronaut up there. 
+       Certainly more vigilant than the guy next to her who's got no clue about the aneurysm in his head ready to pop. 
+Cameron: Right. 
+House: You got a better reason? 
+Cameron: You couldn't kill her dream.
