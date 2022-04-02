@@ -89,12 +89,12 @@ w.write(str(li)+'\n')
     result_text.txt：txt格式文件，含有文件信息、对应语段文本
     result_data.csv：csv格式文件，含有结构化后的tag出现次数，用于数据分析
 
-![image](https://github.com/Golden-Arc/Discourse_Analysis_Tool/tree/main/Image/sample1.png)
+![image](https://github.com/Golden-Arc/Discourse_Analysis_Tool/blob/main/Image/sample1.PNG)
 
 > 上图所示数据是研究打断现象所需的语料进行筛选、统计后的结构化数据
 > 筛选条件为**所有包含`<ITR>`标签的语块**
 
-![image](https://github.com/Golden-Arc/Discourse_Analysis_Tool/tree/main/Image/sample2.png)
+![image](https://github.com/Golden-Arc/Discourse_Analysis_Tool/blob/main/Image/sample2.PNG)
 > 上图所示数据是所有包含`<ITR>`标签的语料数据，每一行代表一个语块
 
 ## 6. 后续改进：
@@ -103,3 +103,4 @@ w.write(str(li)+'\n')
 * 在之后的版本中本项目组计划搭建线上标注平台，其中此模块将作为主要的筛选模块继续进行维护
 
 > 本项目中所有文件均遵循*MIT开源协议*。转载请注明出处。
+> 
